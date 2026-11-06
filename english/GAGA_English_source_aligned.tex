@@ -1,0 +1,58 @@
+% Jean-Pierre Serre, Algebraic Geometry and Analytic Geometry (GAGA)
+% English source-aligned reader. Editorial provenance is external to the reader.
+\documentclass[11pt,a4paper,leqno]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[english]{babel}
+\usepackage{amsmath,amssymb,amsfonts,mathrsfs}
+\usepackage{mathtools}
+\usepackage{tikz}
+\usetikzlibrary{cd,arrows.meta}
+\usepackage{geometry}
+\geometry{margin=2.4cm}
+\usepackage{enumitem}
+\usepackage[normalem]{ulem}
+\usepackage[hidelinks,unicode]{hyperref}
+\hypersetup{
+  pdftitle={Algebraic Geometry and Analytic Geometry (GAGA)},
+  pdfauthor={Jean-Pierre Serre},
+  pdfsubject={English translation},
+  pdfkeywords={GAGA, algebraic geometry, analytic geometry, coherent sheaves}
+}
+
+\let\mathunderline\underline
+\renewcommand{\underline}[1]{\ifmmode\mathunderline{#1}\else\uline{#1}\fi}
+\emergencystretch=3em
+
+\providecommand{\Gal}{\operatorname{Gal}}
+\providecommand{\Spec}{\operatorname{Spec}}
+\providecommand{\Hom}{\operatorname{Hom}}
+\providecommand{\Ext}{\operatorname{Ext}}
+\providecommand{\Ker}{\operatorname{Ker}}
+\providecommand{\Coker}{\operatorname{Coker}}
+\providecommand{\Im}{\operatorname{Im}}
+\providecommand{\Tor}{\operatorname{Tor}}
+\providecommand{\Supp}{\operatorname{Supp}}
+\providecommand{\Proj}{\operatorname{Proj}}
+\providecommand{\codim}{\operatorname{codim}}
+\providecommand{\depth}{\operatorname{depth}}
+
+\newcommand{\GAGASection}[2]{%
+  \phantomsection\section*{#1}\addcontentsline{toc}{section}{#1}\label{#2}}
+\newcommand{\GAGASubsection}[2]{%
+  \phantomsection\subsection*{#1}\addcontentsline{toc}{subsection}{#1}\label{#2}}
+\newcommand{\GAGATarget}[1]{\phantomsection\label{#1}}
+\newcommand{\GAGAInternalRef}[2]{\hyperref[#1]{#2}}
+\newcommand{\GAGACite}[1]{\hyperref[gaga:bib:#1]{[#1]}}
+
+\begin{document}
+\input{components/00_title_and_introduction}
+\input{components/01_analytic_spaces}
+\input{components/02_associated_analytic_space}
+\input{components/03_sheaf_correspondence_nos09_12}
+\input{components/04_proofs_theorems1_3_nos13_17}
+\input{components/05_applications_nos18_20}
+\input{components/06_appendix_nos21_24_bibliography}
+\end{document}
