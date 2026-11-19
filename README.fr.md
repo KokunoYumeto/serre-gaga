@@ -8,8 +8,8 @@ l'article en LaTeX : le français tel qu'imprimé, le français corrigé et une 
 
 | | |
 |---|---|
-| [Français tel qu'imprimé (PDF, 24 pages)][dip] | le texte tel qu'imprimé, coquilles comprises |
-| [Français corrigé (PDF, 24 pages)][cor] | coquilles évidentes de l'imprimé corrigées |
+| [Français tel qu'imprimé (PDF, 25 pages)][dip] | le texte tel qu'imprimé, coquilles comprises |
+| [Français corrigé (PDF, 25 pages)][cor] | coquilles évidentes de l'imprimé corrigées |
 | [Traduction anglaise (PDF, 26 pages)][en] | anglais, traduit du français corrigé |
 | [Sources LaTeX (ZIP)][zip] | les trois couches ci-dessous, aussi consultables dans ce dépôt |
 

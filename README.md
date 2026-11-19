@@ -8,8 +8,8 @@ in LaTeX: the French as printed, the corrected French and an English translation
 
 | | |
 |---|---|
-| [French as printed (PDF, 24 pages)][dip] | the text as printed, misprints included |
-| [Corrected French (PDF, 24 pages)][cor] | evident misprints of the print corrected |
+| [French as printed (PDF, 25 pages)][dip] | the text as printed, misprints included |
+| [Corrected French (PDF, 25 pages)][cor] | evident misprints of the print corrected |
 | [English translation (PDF, 26 pages)][en] | English, from the corrected French |
 | [LaTeX sources (ZIP)][zip] | the three layers below, also browsable in this repository |
 
