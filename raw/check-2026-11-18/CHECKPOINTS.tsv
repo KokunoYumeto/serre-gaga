@@ -1,0 +1,3 @@
+checkpoint	due_utc	save_observed_utc	bytes	sha256	status
+GAGA_CHECK_checkpoint_01.zip	2026-11-18 13:31:42 UTC	2026-11-18 13:35:03 UTC	52559693	1e07f31865e37b0cf12c59c7550ec13ec4cc2e8ce8f64de3062c1fd499b6ebbd	Durable save succeeded; local identity metadata applied. Preflight delay: TeX false positives.
+GAGA_CHECK_checkpoint_02.zip	2026-11-18 14:35:03 UTC	2026-11-18 14:38:49 UTC	55123002	f189934e21a179c6070d9c78fcfcb4202421c215f42a43b96a276ab730afb862	Durable save succeeded; local identity metadata applied. Full current deliverable snapshot.

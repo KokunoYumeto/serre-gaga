@@ -1,0 +1,13 @@
+layer	pass	box	badness	source_file	source_lines	estimated_pdf_page	page_basis	diagnostic
+french-diplomatic	1	h	1881	./gaga_body.tex	724--726	15	inferred from next line-initial shipout marker; inline citation numerals excluded	Underfull \hbox (badness 1881) in paragraph at lines 724--726
+french-diplomatic	1	h	1715	./gaga_body.tex	863--864	18	inferred from next line-initial shipout marker; inline citation numerals excluded	Underfull \hbox (badness 1715) in paragraph at lines 863--864
+french-diplomatic	2	h	1881	./gaga_body.tex	724--726	15	inferred from next line-initial shipout marker; inline citation numerals excluded	Underfull \hbox (badness 1881) in paragraph at lines 724--726
+french-diplomatic	2	h	1715	./gaga_body.tex	863--864	18	inferred from next line-initial shipout marker; inline citation numerals excluded	Underfull \hbox (badness 1715) in paragraph at lines 863--864
+french-diplomatic	3	h	1881	./gaga_body.tex	724--726	15	inferred from next line-initial shipout marker; inline citation numerals excluded	Underfull \hbox (badness 1881) in paragraph at lines 724--726
+french-diplomatic	3	h	1715	./gaga_body.tex	863--864	18	inferred from next line-initial shipout marker; inline citation numerals excluded	Underfull \hbox (badness 1715) in paragraph at lines 863--864
+french-corrected	1	h	1881	./gaga_body.tex	724--726	15	inferred from next line-initial shipout marker; inline citation numerals excluded	Underfull \hbox (badness 1881) in paragraph at lines 724--726
+french-corrected	1	h	1715	./gaga_body.tex	863--864	18	inferred from next line-initial shipout marker; inline citation numerals excluded	Underfull \hbox (badness 1715) in paragraph at lines 863--864
+french-corrected	2	h	1881	./gaga_body.tex	724--726	15	inferred from next line-initial shipout marker; inline citation numerals excluded	Underfull \hbox (badness 1881) in paragraph at lines 724--726
+french-corrected	2	h	1715	./gaga_body.tex	863--864	18	inferred from next line-initial shipout marker; inline citation numerals excluded	Underfull \hbox (badness 1715) in paragraph at lines 863--864
+french-corrected	3	h	1881	./gaga_body.tex	724--726	15	inferred from next line-initial shipout marker; inline citation numerals excluded	Underfull \hbox (badness 1881) in paragraph at lines 724--726
+french-corrected	3	h	1715	./gaga_body.tex	863--864	18	inferred from next line-initial shipout marker; inline citation numerals excluded	Underfull \hbox (badness 1715) in paragraph at lines 863--864

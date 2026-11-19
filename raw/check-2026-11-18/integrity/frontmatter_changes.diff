@@ -1,0 +1,30 @@
+--- original/french-corrected/gaga_body.tex
++++ current/french-corrected/gaga_body.tex
+@@ -2,10 +2,9 @@
+ %%%%%%%%%%  printed page 1  %%%%%%%%%%
+ 
+ 
+-GÉOMÉTRIE ALGÉBRIQUE ET GÉOMÉTRIE ANALYTIQUE
++\begin{center}\bfseries GÉOMÉTRIE ALGÉBRIQUE ET GÉOMÉTRIE ANALYTIQUE.\end{center}
+ 
+-par Jean-Pierre \textsc{Serre}.
++\begin{center}\bfseries par Jean-Pierre \MakeUppercase{Serre}.\end{center}
+ 
+ \begin{center}\rule{2.5cm}{0.4pt}\end{center}
+ 
+-
+--- original/french-diplomatic/gaga_body.tex
++++ current/french-diplomatic/gaga_body.tex
+@@ -2,10 +2,9 @@
+ %%%%%%%%%%  printed page 1  %%%%%%%%%%
+ 
+ 
+-GÉOMÉTRIE ALGÉBRIQUE ET GÉOMÉTRIE ANALYTIQUE
++\begin{center}\bfseries GÉOMÉTRIE ALGÉBRIQUE ET GÉOMÉTRIE ANALYTIQUE.\end{center}
+ 
+-par Jean-Pierre \textsc{Serre}.
++\begin{center}\bfseries par Jean-Pierre \MakeUppercase{Serre}.\end{center}
+ 
+ \begin{center}\rule{2.5cm}{0.4pt}\end{center}
+ 
+-

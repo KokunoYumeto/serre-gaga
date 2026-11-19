@@ -1,0 +1,15 @@
+mechanical_metric	value
+ledger_data_records	2396
+retained_changes	2395
+withdrawn_records	1
+second_reading_data_records_covered	2396
+high_confidence_records	2394
+medium_confidence_records	2
+integrity_PASS	110
+integrity_REVIEW	6
+integrity_FAIL	0
+ledger_replay_applied	2395
+ledger_replay_recorded_no_op	1
+unreconstructed_source_diff_bytes	0
+CORRECTIONS_sha256	419dcc496216b22ad62fca5b84dcc5e7f99905a5e4eec9284129d0aa6ffdfb5d
+MANUAL_REVIEW_sha256	d7f429d6662818226f85ea058f72830f01825585383caa9226baf9367196d343

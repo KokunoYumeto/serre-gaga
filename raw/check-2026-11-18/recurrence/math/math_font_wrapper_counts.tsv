@@ -1,0 +1,101 @@
+file	printed_page_if_encoded	math_font_command	nearest_text_wrapper	explicit_nested_math	count
+english/components/01_analytic_spaces.tex		mathcal	emph	yes	5
+english/components/01_analytic_spaces.tex		mathrm	emph	yes	15
+english/components/02_associated_analytic_space.tex		mathbf	emph	yes	4
+english/components/02_associated_analytic_space.tex		mathcal	emph	yes	8
+english/components/02_associated_analytic_space.tex		mathfrak	emph	yes	3
+english/components/02_associated_analytic_space.tex		mathrm	emph	yes	61
+english/components/03_sheaf_correspondence_nos09_12.tex		mathcal	emph	yes	26
+english/components/03_sheaf_correspondence_nos09_12.tex		mathrm	emph	yes	9
+english/components/04_proofs_theorems1_3_nos13_17.tex		mathbf	emph	yes	4
+english/components/04_proofs_theorems1_3_nos13_17.tex		mathcal	emph	yes	15
+english/components/04_proofs_theorems1_3_nos13_17.tex		mathcal	footnote	yes	1
+english/components/04_proofs_theorems1_3_nos13_17.tex		mathrm	emph	yes	11
+english/components/04_proofs_theorems1_3_nos13_17.tex		mathrm	footnote	yes	3
+english/components/05_applications_nos18_20.tex		mathbf	emph	yes	6
+english/components/05_applications_nos18_20.tex		mathcal	emph	yes	6
+english/components/05_applications_nos18_20.tex		mathrm	emph	yes	36
+english/components/06_appendix_nos21_24_bibliography.tex		mathfrak	emph	yes	14
+english/components/06_appendix_nos21_24_bibliography.tex		mathrm	emph	yes	102
+french-corrected/gaga_body.tex	10	mathcal	textit	yes	2
+french-corrected/gaga_body.tex	10	mathrm	textit	yes	2
+french-corrected/gaga_body.tex	11	mathcal	textit	yes	4
+french-corrected/gaga_body.tex	11	mathrm	textit	yes	9
+french-corrected/gaga_body.tex	12	mathrm	textit	yes	16
+french-corrected/gaga_body.tex	13	mathrm	textit	yes	15
+french-corrected/gaga_body.tex	15	mathfrak	emph	yes	3
+french-corrected/gaga_body.tex	15	mathrm	emph	yes	8
+french-corrected/gaga_body.tex	16	mathcal	emph	yes	4
+french-corrected/gaga_body.tex	16	mathrm	emph	yes	2
+french-corrected/gaga_body.tex	17	mathcal	emph	yes	6
+french-corrected/gaga_body.tex	18	mathcal	emph	yes	4
+french-corrected/gaga_body.tex	18	mathrm	emph	yes	3
+french-corrected/gaga_body.tex	19	mathcal	textit	yes	7
+french-corrected/gaga_body.tex	20	mathcal	textit	yes	6
+french-corrected/gaga_body.tex	21	mathcal	footnote	yes	1
+french-corrected/gaga_body.tex	21	mathrm	footnote	yes	3
+french-corrected/gaga_body.tex	22	mathcal	textit	yes	2
+french-corrected/gaga_body.tex	24	mathbf	textit	yes	4
+french-corrected/gaga_body.tex	24	mathcal	textbf	yes	1
+french-corrected/gaga_body.tex	24	mathcal	textit	yes	8
+french-corrected/gaga_body.tex	24	mathrm	textit	yes	8
+french-corrected/gaga_body.tex	25	mathcal	textit	yes	3
+french-corrected/gaga_body.tex	25	mathrm	textit	yes	3
+french-corrected/gaga_body.tex	28	mathbf	textit	yes	1
+french-corrected/gaga_body.tex	28	mathrm	textit	yes	8
+french-corrected/gaga_body.tex	29	mathrm	textit	yes	5
+french-corrected/gaga_body.tex	30	mathrm	textit	yes	1
+french-corrected/gaga_body.tex	37	mathfrak	emph	yes	1
+french-corrected/gaga_body.tex	37	mathrm	emph	yes	14
+french-corrected/gaga_body.tex	38	mathfrak	emph	yes	5
+french-corrected/gaga_body.tex	38	mathrm	emph	yes	20
+french-corrected/gaga_body.tex	39	mathrm	emph	yes	4
+french-corrected/gaga_body.tex	40	mathfrak	emph	yes	5
+french-corrected/gaga_body.tex	40	mathrm	emph	yes	31
+french-corrected/gaga_body.tex	5	mathcal	textit	yes	3
+french-corrected/gaga_body.tex	5	mathrm	textit	yes	5
+french-corrected/gaga_body.tex	7	mathbf	textit	yes	4
+french-corrected/gaga_body.tex	7	mathrm	textit	yes	4
+french-corrected/gaga_body.tex	8	mathrm	textit	yes	7
+french-corrected/gaga_body.tex	9	mathcal	textit	yes	2
+french-diplomatic/gaga_body.tex	10	mathcal	textit	yes	2
+french-diplomatic/gaga_body.tex	10	mathrm	textit	yes	2
+french-diplomatic/gaga_body.tex	11	mathcal	textit	yes	4
+french-diplomatic/gaga_body.tex	11	mathrm	textit	yes	9
+french-diplomatic/gaga_body.tex	12	mathrm	textit	yes	16
+french-diplomatic/gaga_body.tex	13	mathrm	textit	yes	15
+french-diplomatic/gaga_body.tex	15	mathfrak	emph	yes	3
+french-diplomatic/gaga_body.tex	15	mathrm	emph	yes	8
+french-diplomatic/gaga_body.tex	16	mathcal	emph	yes	4
+french-diplomatic/gaga_body.tex	16	mathrm	emph	yes	2
+french-diplomatic/gaga_body.tex	17	mathcal	emph	yes	6
+french-diplomatic/gaga_body.tex	18	mathcal	emph	yes	4
+french-diplomatic/gaga_body.tex	18	mathrm	emph	yes	3
+french-diplomatic/gaga_body.tex	19	mathcal	textit	yes	7
+french-diplomatic/gaga_body.tex	20	mathcal	textit	yes	6
+french-diplomatic/gaga_body.tex	21	mathcal	footnote	yes	1
+french-diplomatic/gaga_body.tex	21	mathrm	footnote	yes	3
+french-diplomatic/gaga_body.tex	22	mathcal	textit	yes	2
+french-diplomatic/gaga_body.tex	24	mathbf	textit	yes	4
+french-diplomatic/gaga_body.tex	24	mathcal	textbf	yes	1
+french-diplomatic/gaga_body.tex	24	mathcal	textit	yes	8
+french-diplomatic/gaga_body.tex	24	mathrm	textit	yes	8
+french-diplomatic/gaga_body.tex	25	mathcal	textit	yes	3
+french-diplomatic/gaga_body.tex	25	mathrm	textit	yes	3
+french-diplomatic/gaga_body.tex	28	mathbf	textit	yes	1
+french-diplomatic/gaga_body.tex	28	mathrm	textit	yes	8
+french-diplomatic/gaga_body.tex	29	mathrm	textit	yes	5
+french-diplomatic/gaga_body.tex	30	mathrm	textit	yes	1
+french-diplomatic/gaga_body.tex	37	mathfrak	emph	yes	1
+french-diplomatic/gaga_body.tex	37	mathrm	emph	yes	14
+french-diplomatic/gaga_body.tex	38	mathfrak	emph	yes	5
+french-diplomatic/gaga_body.tex	38	mathrm	emph	yes	20
+french-diplomatic/gaga_body.tex	39	mathrm	emph	yes	4
+french-diplomatic/gaga_body.tex	40	mathfrak	emph	yes	5
+french-diplomatic/gaga_body.tex	40	mathrm	emph	yes	31
+french-diplomatic/gaga_body.tex	5	mathcal	textit	yes	3
+french-diplomatic/gaga_body.tex	5	mathrm	textit	yes	5
+french-diplomatic/gaga_body.tex	7	mathbf	textit	yes	4
+french-diplomatic/gaga_body.tex	7	mathrm	textit	yes	4
+french-diplomatic/gaga_body.tex	8	mathrm	textit	yes	7
+french-diplomatic/gaga_body.tex	9	mathcal	textit	yes	2

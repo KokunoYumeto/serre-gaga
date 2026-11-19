@@ -8,73 +8,73 @@ write $x^\sigma$ for the point with homogeneous coordinates
 $t_0^\sigma,\ldots,t_r^\sigma$. Thus $\sigma$ defines a permutation of
 $\mathbf{P}_r(\mathbf{C})$.
 
-If $X$ is a Z-closed algebraic subvariety of $\mathbf{P}_r(\mathbf{C})$, its
-transform $X^\sigma$ under $\sigma$ is again a Z-closed algebraic subvariety of
-$\mathbf{P}_r(\mathbf{C})$. If $X$ is non-singular, then so is $X^\sigma$ (for
+If $\mathrm{X}$ is a Z-closed algebraic subvariety of $\mathbf{P}_r(\mathbf{C})$, its
+transform $\mathrm{X}^\sigma$ under $\sigma$ is again a Z-closed algebraic subvariety of
+$\mathbf{P}_r(\mathbf{C})$. If $\mathrm{X}$ is non-singular, then so is $\mathrm{X}^\sigma$ (for
 example, by the Jacobian criterion).
 
-\GAGATarget{gaga:prop:12}\textsc{Proposition 12}. --- \emph{If $X$ is
-non-singular, then $X$ and $X^\sigma$ have the same Betti numbers.}
+\GAGATarget{gaga:prop:12}\textsc{Proposition 12}. --- \emph{If $\mathrm{X}$ is
+non-singular, then $\mathrm{X}$ and $\mathrm{X}^\sigma$ have the same Betti numbers.}
 
-Let $b_n(X)$ be the $n$th Betti number of $X$, and let $\Omega^p(X)^h$ denote
-the sheaf of germs of holomorphic differential forms of degree $p$ on $X$.
+Let $b_n(\mathrm{X})$ be the $n$th Betti number of $\mathrm{X}$, and let $\Omega^p(\mathrm{X})^h$ denote
+the sheaf of germs of holomorphic differential forms of degree $p$ on $\mathrm{X}$.
 Put
 
 \begin{equation*}
-h^{p,q}(X)=\dim\mathrm{H}^q(X^h,\Omega^p(X)^h).
+h^{p,q}(\mathrm{X})=\dim\mathrm{H}^q(\mathrm{X}^h,\Omega^p(\mathrm{X})^h).
 \end{equation*}
 
 By the Dolbeault theorem (cf. \GAGACite{8}),
 
 \begin{equation*}
-b_n(X)=\sum_{p+q=n}h^{p,q}(X),
+b_n(\mathrm{X})=\sum_{p+q=n}h^{p,q}(\mathrm{X}),
 \end{equation*}
 
 and similarly
 
 \begin{equation*}
-b_n(X^\sigma)=\sum_{p+q=n}h^{p,q}(X^\sigma).
+b_n(\mathrm{X}^\sigma)=\sum_{p+q=n}h^{p,q}(\mathrm{X}^\sigma).
 \end{equation*}
 
 By Theorem~\hyperref[gaga:thm:1]{1}, however,
 
 \begin{equation*}
-h^{p,q}(X)=\dim\mathrm{H}^q(X,\Omega^p(X)),
+h^{p,q}(\mathrm{X})=\dim\mathrm{H}^q(\mathrm{X},\Omega^p(\mathrm{X})),
 \end{equation*}
 
-where $\Omega^p(X)$ now denotes the coherent algebraic sheaf of germs of
-regular differential forms of degree $p$ on $X$; likewise,
+where $\Omega^p(\mathrm{X})$ now denotes the coherent algebraic sheaf of germs of
+regular differential forms of degree $p$ on $\mathrm{X}$; likewise,
 
 \begin{equation*}
-h^{p,q}(X^\sigma)=
-\dim\mathrm{H}^q(X^\sigma,\Omega^p(X^\sigma)).
+h^{p,q}(\mathrm{X}^\sigma)=
+\dim\mathrm{H}^q(\mathrm{X}^\sigma,\Omega^p(\mathrm{X}^\sigma)).
 \end{equation*}
 
-Moreover, if $\omega$ is a regular differential form on a Z-open subset $U$
-of $X$, then $\omega^\sigma$ is regular on the Z-open subset $U^\sigma$ of
-$X^\sigma$. It follows that, for every Z-open covering $\mathfrak{U}$ of $X$,
+Moreover, if $\omega$ is a regular differential form on a Z-open subset $\mathrm{U}$
+of $\mathrm{X}$, then $\omega^\sigma$ is regular on the Z-open subset $\mathrm{U}^\sigma$ of
+$\mathrm{X}^\sigma$. It follows that, for every Z-open covering $\mathfrak{U}$ of $\mathrm{X}$,
 $\sigma$ defines a semilinear isomorphism from
-$\mathrm{C}(\mathfrak{U},\Omega^p(X))$ onto
-$\mathrm{C}(\mathfrak{U}^\sigma,\Omega^p(X^\sigma))$, hence from
-$\mathrm{H}^q(\mathfrak{U},\Omega^p(X))$ onto
-$\mathrm{H}^q(\mathfrak{U}^\sigma,\Omega^p(X^\sigma))$, and therefore also
-from $\mathrm{H}^q(X,\Omega^p(X))$ onto
-$\mathrm{H}^q(X^\sigma,\Omega^p(X^\sigma))$. Thus
-$h^{p,q}(X)=h^{p,q}(X^\sigma)$, proving the proposition.
+$\mathrm{C}(\mathfrak{U},\Omega^p(\mathrm{X}))$ onto
+$\mathrm{C}(\mathfrak{U}^\sigma,\Omega^p(\mathrm{X}^\sigma))$, hence from
+$\mathrm{H}^q(\mathfrak{U},\Omega^p(\mathrm{X}))$ onto
+$\mathrm{H}^q(\mathfrak{U}^\sigma,\Omega^p(\mathrm{X}^\sigma))$, and therefore also
+from $\mathrm{H}^q(\mathrm{X},\Omega^p(\mathrm{X}))$ onto
+$\mathrm{H}^q(\mathrm{X}^\sigma,\Omega^p(\mathrm{X}^\sigma))$. Thus
+$h^{p,q}(\mathrm{X})=h^{p,q}(\mathrm{X}^\sigma)$, proving the proposition.
 
 Proposition~\hyperref[gaga:prop:12]{12} gives the following result, conjectured
 by A.~Weil.
 
-\GAGATarget{gaga:prop:12:cor}\textsc{Corollary}. --- \emph{Let $V$ be a
-non-singular projective variety defined over a field $K$ of algebraic numbers.
-The complex varieties $X$ obtained from $V$ by embedding $K$ in $\mathbf{C}$
+\GAGATarget{gaga:prop:12:cor}\textsc{Corollary}. --- \emph{Let $\mathrm{V}$ be a
+non-singular projective variety defined over a field $\mathrm{K}$ of algebraic numbers.
+The complex varieties $\mathrm{X}$ obtained from $\mathrm{V}$ by embedding $\mathrm{K}$ in $\mathbf{C}$
 have Betti numbers independent of the chosen embedding.}
 
-Indeed, any two embeddings of $K$ in $\mathbf{C}$ differ by an automorphism of
+Indeed, any two embeddings of $\mathrm{K}$ in $\mathbf{C}$ differ by an automorphism of
 $\mathbf{C}$.
 
 \GAGATarget{gaga:remark:18}\emph{Remark}. --- I do not know whether the
-varieties $X$ and $X^\sigma$ are always homeomorphic. In any case, the example
+varieties $\mathrm{X}$ and $\mathrm{X}^\sigma$ are always homeomorphic. In any case, the example
 of a curve of genus $1$ already shows that they are not always analytically
 isomorphic.
 
@@ -86,140 +86,140 @@ This is the following result (cf. \GAGACite{6}).
 analytic subset of projective space is algebraic.}
 
 We show how this proposition follows from Theorem~\hyperref[gaga:thm:3]{3}.
-Let $X$ be a projective space and let $Y$ be a closed analytic subset of
-$X^h$. By a theorem of H.~Cartan cited above
+Let $\mathrm{X}$ be a projective space and let $\mathrm{Y}$ be a closed analytic subset of
+$\mathrm{X}^h$. By a theorem of H.~Cartan cited above
 (\hyperref[gaga:no:3]{no.~3}, Proposition~\hyperref[gaga:prop:1]{1}), the sheaf
-$\mathcal{H}_Y=\mathcal{H}_X/\mathcal{A}(Y)$ is a coherent analytic sheaf on
-$X^h$. Hence there is, by Theorem~\hyperref[gaga:thm:3]{3}, a coherent
-algebraic sheaf $\mathcal{F}$ on $X$ such that
-$\mathcal{H}_Y=\mathcal{F}^h$. By Proposition~\hyperref[gaga:prop:10:item:b]{10
+$\mathcal{H}_\mathrm{Y}=\mathcal{H}_\mathrm{X}/\mathcal{A}(\mathrm{Y})$ is a coherent analytic sheaf on
+$\mathrm{X}^h$. Hence there is, by Theorem~\hyperref[gaga:thm:3]{3}, a coherent
+algebraic sheaf $\mathcal{F}$ on $\mathrm{X}$ such that
+$\mathcal{H}_\mathrm{Y}=\mathcal{F}^h$. By Proposition~\hyperref[gaga:prop:10:item:b]{10
 b)}, the support of $\mathcal{F}^h$ is equal to that of $\mathcal{F}$ (recall,
-cf. \GAGACite{18}, no.~81, that the support of $\mathcal{F}$ is the set of $x\in X$
+cf. \GAGACite{18}, no.~81, that the support of $\mathcal{F}$ is the set of $x\in \mathrm{X}$
 such that $\mathcal{F}_x\ne0$), and is therefore Z-closed because
-$\mathcal{F}$ is coherent. Since $\mathcal{F}^h=\mathcal{H}_Y$, this means that
-$Y$ is Z-closed, as required.
+$\mathcal{F}$ is coherent. Since $\mathcal{F}^h=\mathcal{H}_\mathrm{Y}$, this means that
+$\mathrm{Y}$ is Z-closed, as required.
 
 We now indicate some simple applications of Chow's theorem.
 
-\GAGATarget{gaga:prop:14}\textsc{Proposition 14}. --- \emph{If $X$ is an
-algebraic variety, every compact analytic subset $X'$ of $X$ is algebraic.}
+\GAGATarget{gaga:prop:14}\textsc{Proposition 14}. --- \emph{If $\mathrm{X}$ is an
+algebraic variety, every compact analytic subset $\mathrm{X}'$ of $\mathrm{X}$ is algebraic.}
 
 Retain the notation from the proof of Proposition~\hyperref[gaga:prop:6]{6}:
-let $Y$ be a projective variety, let $U$ be a Z-open and Z-dense subset of
-$Y$, and let $f:U\to X$ be a surjective regular map whose graph $T$ is
-Z-closed in $X\times Y$. Put $T'=T\cap(X'\times Y)$. Since $X'$ and $Y$ are
-compact and $T$ is closed, $T'$ is compact; so is its projection $Y'$ onto
-the factor $Y$. On the other hand, $Y'=f^{-1}(X')$, which shows that $Y'$ is
-an analytic subset of $U$, hence of $Y$. Chow's theorem therefore shows that
-$Y'$ is a Z-closed subset of $Y$. Applying
-Proposition~\hyperref[gaga:prop:7]{7} to $f:Y'\to X$, we conclude that
-$X'=f(Y')$ is Z-closed in $X$, as required.
+let $\mathrm{Y}$ be a projective variety, let $\mathrm{U}$ be a Z-open and Z-dense subset of
+$\mathrm{Y}$, and let $f:\mathrm{U}\to \mathrm{X}$ be a surjective regular map whose graph $\mathrm{T}$ is
+Z-closed in $\mathrm{X}\times \mathrm{Y}$. Put $\mathrm{T}'=\mathrm{T}\cap(\mathrm{X}'\times \mathrm{Y})$. Since $\mathrm{X}'$ and $\mathrm{Y}$ are
+compact and $\mathrm{T}$ is closed, $\mathrm{T}'$ is compact; so is its projection $\mathrm{Y}'$ onto
+the factor $\mathrm{Y}$. On the other hand, $\mathrm{Y}'=f^{-1}(\mathrm{X}')$, which shows that $\mathrm{Y}'$ is
+an analytic subset of $\mathrm{U}$, hence of $\mathrm{Y}$. Chow's theorem therefore shows that
+$\mathrm{Y}'$ is a Z-closed subset of $\mathrm{Y}$. Applying
+Proposition~\hyperref[gaga:prop:7]{7} to $f:\mathrm{Y}'\to \mathrm{X}$, we conclude that
+$\mathrm{X}'=f(\mathrm{Y}')$ is Z-closed in $\mathrm{X}$, as required.
 
 \GAGATarget{gaga:prop:15}\textsc{Proposition 15}. --- \emph{Every holomorphic
-map $f$ from a compact algebraic variety $X$ to an algebraic variety $Y$ is
+map $f$ from a compact algebraic variety $\mathrm{X}$ to an algebraic variety $\mathrm{Y}$ is
 regular.}
 
-Let $T$ be the graph of $f$ in $X\times Y$. Since $f$ is holomorphic, $T$ is
-a compact analytic subset of $X\times Y$. Proposition~\hyperref[gaga:prop:14]{14}
-shows that $T$ is algebraic, and hence $f$ is regular by
+Let $\mathrm{T}$ be the graph of $f$ in $\mathrm{X}\times \mathrm{Y}$. Since $f$ is holomorphic, $\mathrm{T}$ is
+a compact analytic subset of $\mathrm{X}\times \mathrm{Y}$. Proposition~\hyperref[gaga:prop:14]{14}
+shows that $\mathrm{T}$ is algebraic, and hence $f$ is regular by
 Proposition~\hyperref[gaga:prop:8]{8}.
 
 \GAGATarget{gaga:prop:15:cor}\textsc{Corollary}. --- \emph{Every compact
 analytic space admits at most one structure of algebraic variety.}
 
-\GAGASubsection{20. Algebraic and analytic fibre spaces}{gaga:no:20}
+\GAGASubsection{20. Algebraic and analytic bundles}{gaga:no:20}
 
-Let $G$ be an algebraic group and $X$ an algebraic variety. The germs of
-regular maps from $X$ to $G$ form a sheaf of groups, generally non-abelian,
+Let $\mathrm{G}$ be an algebraic group and $\mathrm{X}$ an algebraic variety. The germs of
+regular maps from $\mathrm{X}$ to $\mathrm{G}$ form a sheaf of groups, generally non-abelian,
 which we denote by $\mathcal{G}$.
 
 If $\mathcal{A}$ is a sheaf of groups, one can define the \emph{group}
-$\mathrm{H}^0(X,\mathcal{A})$ and the \emph{set}
-$\mathrm{H}^1(X,\mathcal{A})$; see \GAGACite{9} and, for example, \GAGACite{10}, Chapter~V. In
-particular, $\mathrm{H}^1(X,\mathcal{G})$ is defined. Its elements are exactly
-the classes of principal algebraic fibre spaces with base $X$ and structure
-group $G$ (in the sense defined by A.~Weil; cf. \GAGACite{20}). For example, the
-elements of $\mathrm{H}^1(X,\mathcal{O}_X)$ are the classes of fibre spaces
+$\mathrm{H}^0(\mathrm{X},\mathcal{A})$ and the \emph{set}
+$\mathrm{H}^1(\mathrm{X},\mathcal{A})$; see \GAGACite{9} and, for example, \GAGACite{10}, Chapter~V. In
+particular, $\mathrm{H}^1(\mathrm{X},\mathcal{G})$ is defined. Its elements are exactly
+the classes of principal algebraic bundles with base $\mathrm{X}$ and structure
+group $\mathrm{G}$ (in the sense defined by A.~Weil; cf. \GAGACite{20}). For example, the
+elements of $\mathrm{H}^1(\mathrm{X},\mathcal{O}_\mathrm{X})$ are the classes of bundles
 whose group is the additive group $\mathbf{C}$.
 
 Likewise, if $\mathcal{G}^h$ denotes the sheaf of germs of holomorphic maps
-from $X$ to $G$, the elements of
-$\mathrm{H}^1(X^h,\mathcal{G}^h)$ are exactly the classes of \emph{analytic}
-fibre spaces with base $X$ and group $G$. Every algebraic fibre space $E$
-defines an analytic fibre space $E^h$, and therefore a map
+from $\mathrm{X}$ to $\mathrm{G}$, the elements of
+$\mathrm{H}^1(\mathrm{X}^h,\mathcal{G}^h)$ are exactly the classes of \emph{analytic}
+bundles with base $\mathrm{X}$ and group $\mathrm{G}$. Every algebraic bundle $\mathrm{E}$
+defines an analytic bundle $\mathrm{E}^h$, and therefore a map
 
 \begin{equation*}
-\varepsilon:\mathrm{H}^1(X,\mathcal{G})
-\longrightarrow\mathrm{H}^1(X^h,\mathcal{G}^h),
+\varepsilon:\mathrm{H}^1(\mathrm{X},\mathcal{G})
+\longrightarrow\mathrm{H}^1(\mathrm{X}^h,\mathcal{G}^h),
 \end{equation*}
 
 analogous to the map in \hyperref[gaga:no:11]{no.~11}.
 
-\GAGATarget{gaga:prop:16}\textsc{Proposition 16}. --- \emph{If $X$ is
+\GAGATarget{gaga:prop:16}\textsc{Proposition 16}. --- \emph{If $\mathrm{X}$ is
 compact, the map $\varepsilon$ is injective.}
 
-Let $E$ and $E'$ be two principal algebraic fibre spaces with base $X$ and
-structure group $G$. Proposition~\hyperref[gaga:prop:16]{16} says that, if
-$E$ and $E'$ are analytically isomorphic, then they are algebraically
+Let $\mathrm{E}$ and $\mathrm{E}'$ be two principal algebraic bundles with base $\mathrm{X}$ and
+structure group $\mathrm{G}$. Proposition~\hyperref[gaga:prop:16]{16} says that, if
+$\mathrm{E}$ and $\mathrm{E}'$ are analytically isomorphic, then they are algebraically
 isomorphic. In fact, we shall prove the slightly more precise result that
-every analytic isomorphism $\varphi:E\to E'$ is an algebraic isomorphism
+every analytic isomorphism $\varphi:\mathrm{E}\to \mathrm{E}'$ is an algebraic isomorphism
 (that is, a regular map).
 
-The space $E\times E'$ is a principal algebraic fibre space with base
-$X\times X$ and structure group $G\times G$. We denote by $(E,E')$ its
-inverse image under the diagonal map $X\to X\times X$; it is the `fibred
-product' of $E$ and $E'$. Let $G\times G$ act on $G$ by
+The space $\mathrm{E}\times \mathrm{E}'$ is a principal algebraic bundle with base
+$\mathrm{X}\times \mathrm{X}$ and structure group $\mathrm{G}\times \mathrm{G}$. We denote by $(\mathrm{E},\mathrm{E}')$ its
+inverse image under the diagonal map $\mathrm{X}\to \mathrm{X}\times \mathrm{X}$; it is the `fiber
+product' of $\mathrm{E}$ and $\mathrm{E}'$. Let $\mathrm{G}\times \mathrm{G}$ act on $\mathrm{G}$ by
 
 \begin{equation*}
 (g,g')\mathbin{.}h=gh{g'}^{-1}.
 \end{equation*}
 
-Let $T$ be the fibre space associated with the principal fibre space
-$(E,E')$, with typical fibre the group $G$ equipped with the preceding
-actions. It is immediate that the sections of $T$ correspond bijectively to
-the isomorphisms from $E$ onto $E'$. In particular, $\varphi$ corresponds to
-an analytic section $s$ of $T$. Applying Proposition~\hyperref[gaga:prop:15]{15}
-to $s:X\to T$, we see that $s$ is regular. This means that $\varphi$ is
+Let $\mathrm{T}$ be the bundle associated with the principal bundle
+$(\mathrm{E},\mathrm{E}')$, with typical fiber the group $\mathrm{G}$ equipped with the preceding
+actions. It is immediate that the sections of $\mathrm{T}$ correspond bijectively to
+the isomorphisms from $\mathrm{E}$ onto $\mathrm{E}'$. In particular, $\varphi$ corresponds to
+an analytic section $s$ of $\mathrm{T}$. Applying Proposition~\hyperref[gaga:prop:15]{15}
+to $s:\mathrm{X}\to \mathrm{T}$, we see that $s$ is regular. This means that $\varphi$ is
 regular, and proves the proposition.
 
-Now suppose that $X$ is a \emph{projective variety}. One may ask whether
+Now suppose that $\mathrm{X}$ is a \emph{projective variety}. One may ask whether
 
 \begin{equation*}
-\varepsilon:\mathrm{H}^1(X,\mathcal{G})
-\longrightarrow\mathrm{H}^1(X^h,\mathcal{G}^h)
+\varepsilon:\mathrm{H}^1(\mathrm{X},\mathcal{G})
+\longrightarrow\mathrm{H}^1(\mathrm{X}^h,\mathcal{G}^h)
 \end{equation*}
 
 is bijective; in other words, in view of Proposition~\hyperref[gaga:prop:16]{16},
-whether every analytic fibre space is algebraic. This is plainly false if no
-condition is imposed on $G$, as is shown by the case in which $G$ is an
+whether every analytic bundle is algebraic. This is plainly false if no
+condition is imposed on $\mathrm{G}$, as is shown by the case in which $\mathrm{G}$ is an
 abelian variety (or a finite group). In the following propositions we give
-several groups $G$ for which it is true.
+several groups $\mathrm{G}$ for which it is true.
 
-\GAGATarget{gaga:prop:17}\textsc{Proposition 17}. --- \emph{If $G$ is the
+\GAGATarget{gaga:prop:17}\textsc{Proposition 17}. --- \emph{If $\mathrm{G}$ is the
 additive group $\mathbf{C}$, the map $\varepsilon$ is bijective.}
 
 Indeed, then $\mathcal{G}=\mathcal{O}$ and
 $\mathcal{G}^h=\mathcal{O}^h$, and the proposition is a special case of
 Theorem~\hyperref[gaga:thm:1]{1}.
 
-\GAGATarget{gaga:prop:18}\textsc{Proposition 18}. --- \emph{If $G$ is the
+\GAGATarget{gaga:prop:18}\textsc{Proposition 18}. --- \emph{If $\mathrm{G}$ is the
 general linear group $\mathrm{GL}_n(\mathbf{C})$, the map $\varepsilon$ is
 bijective.}
 
-To every principal fibre space with structure group
-$\mathrm{GL}_n(\mathbf{C})$ is associated a fibre space with vector fibre,
-having typical fibre $\mathbf{C}^n$, which characterizes it. In view of the
-correspondence between fibre spaces with vector fibres and locally free
+To every principal bundle with structure group
+$\mathrm{GL}_n(\mathbf{C})$ is associated a vector bundle,
+having typical fiber $\mathbf{C}^n$, which characterizes it. In view of the
+correspondence between vector bundles and locally free
 sheaves (cf., for example, \GAGACite{18}, no.~41), it is therefore enough to prove the
 following statement:
 
-\emph{If $\mathcal{M}$ is a coherent analytic sheaf on $X^h$ which is locally
+\emph{If $\mathcal{M}$ is a coherent analytic sheaf on $\mathrm{X}^h$ which is locally
 isomorphic to $\mathcal{H}^n$, then there is a coherent algebraic sheaf
-$\mathcal{F}$ on $X$ which is locally isomorphic to $\mathcal{O}^n$ and such
+$\mathcal{F}$ on $\mathrm{X}$ which is locally isomorphic to $\mathcal{O}^n$ and such
 that $\mathcal{F}^h$ is isomorphic to $\mathcal{M}$.}
 
 By Theorem~\hyperref[gaga:thm:3]{3}, there is a coherent algebraic sheaf
-$\mathcal{F}$ on $X$ satisfying the second condition. For every $x\in X$, the
+$\mathcal{F}$ on $\mathrm{X}$ satisfying the second condition. For every $x\in \mathrm{X}$, the
 $\mathcal{H}_x$-module
 
 \begin{equation*}
@@ -227,19 +227,19 @@ $\mathcal{H}_x$-module
 \end{equation*}
 
 is therefore isomorphic to $\mathcal{H}_x^n$. Applying \GAGAInternalRef{gaga:appendix}{Appendix}
-Proposition~\GAGAInternalRef{gaga:prop:30}{30} to the rings $A=\mathcal{O}_x$, $A'=\mathcal{H}_x$, and the
-module $E=\mathcal{F}_x$, we conclude that $\mathcal{F}_x$ is isomorphic to
+Proposition~\GAGAInternalRef{gaga:prop:30}{30} to the rings $\mathrm{A}=\mathcal{O}_x$, $\mathrm{A}'=\mathcal{H}_x$, and the
+module $\mathrm{E}=\mathcal{F}_x$, we conclude that $\mathcal{F}_x$ is isomorphic to
 $\mathcal{O}_x^n$. Since $\mathcal{F}$ is coherent, it follows that
 $\mathcal{F}$ is locally isomorphic to $\mathcal{O}^n$, completing the proof.
 
 \GAGATarget{gaga:prop:18:remarks}\emph{Remarks}. --- 1. For $n=1$,
 $\mathrm{GL}_n(\mathbf{C})$ is the multiplicative group $\mathbf{C}^*$. If
-$X$ is assumed to be a \emph{normal} variety, the group
-$\mathrm{H}^1(X,\mathcal{G})$ coincides with the group of classes of divisors
+$\mathrm{X}$ is assumed to be a \emph{normal} variety, the group
+$\mathrm{H}^1(\mathrm{X},\mathcal{G})$ coincides with the group of classes of divisors
 locally linearly equivalent to zero (cf. \GAGACite{20}, \S~3), and
-Proposition~\hyperref[gaga:prop:18]{18} says that every analytic fibre space
-with base $X$ and structure group $\mathbf{C}^*$ arises from such a divisor.
-When $X$ is \emph{non-singular}, this result was obtained by
+Proposition~\hyperref[gaga:prop:18]{18} says that every analytic bundle
+with base $\mathrm{X}$ and structure group $\mathbf{C}^*$ arises from such a divisor.
+When $\mathrm{X}$ is \emph{non-singular}, this result was obtained by
 Kodaira--Spencer \GAGACite{12}; in that case it is, moreover, essentially equivalent
 to Lefschetz's theorem on the existence of divisors with a prescribed
 homology class.
@@ -249,62 +249,62 @@ be extended to arbitrary projective varieties, possibly with singularities;
 this is so, in particular, for Theorems 7 and 8 of \GAGACite{11}. We shall not pursue
 this here.
 
-Now let $G$ be an algebraic group and $H$ an algebraic subgroup of $G$. It is
-known (cf., for example, \GAGACite{13}) that the homogeneous space $G/H$ can be endowed
-with the quotient algebraic-variety structure induced by that of $G$. The group $H$
-acts on $G$ by right translations. We assume that these operations make $G$
-into a principal algebraic fibre space with base $G/H$ and structure group
-$H$, or equivalently, that there is a \emph{rational section} $G/H\to G$
+Now let $\mathrm{G}$ be an algebraic group and $\mathrm{H}$ an algebraic subgroup of $\mathrm{G}$. It is
+known (cf., for example, \GAGACite{13}) that the homogeneous space $\mathrm{G}/\mathrm{H}$ can be endowed
+with the quotient algebraic-variety structure induced by that of $\mathrm{G}$. The group $\mathrm{H}$
+acts on $\mathrm{G}$ by right translations. We assume that these operations make $\mathrm{G}$
+into a principal algebraic bundle with base $\mathrm{G}/\mathrm{H}$ and structure group
+$\mathrm{H}$, or equivalently, that there is a \emph{rational section} $\mathrm{G}/\mathrm{H}\to \mathrm{G}$
 (which is not always the case, as we shall see below). Under this hypothesis
 we have the following result, communicated to me, together with its proof, by
 A.~Grothendieck.
 
-\GAGATarget{gaga:prop:19}\textsc{Proposition 19}. --- \emph{Let $X$ be a
-compact algebraic variety, and let $P$ be a principal analytic fibre space
-with base $X$ and structure group $H$. The fibre space $P$ is algebraic if and
-only if the fibre space $P\times_HG$, obtained from $P$ by extending the
-structure group from $H$ to $G$, is algebraic.}
+\GAGATarget{gaga:prop:19}\textsc{Proposition 19}. --- \emph{Let $\mathrm{X}$ be a
+compact algebraic variety, and let $\mathrm{P}$ be a principal analytic bundle
+with base $\mathrm{X}$ and structure group $\mathrm{H}$. The bundle $\mathrm{P}$ is algebraic if and
+only if the bundle $\mathrm{P}\times_\mathrm{H}\mathrm{G}$, obtained from $\mathrm{P}$ by extending the
+structure group from $\mathrm{H}$ to $\mathrm{G}$, is algebraic.}
 
-Necessity is clear. To prove sufficiency, suppose that $P\times_HG$ is
-algebraic. This means that there is a principal algebraic fibre space $P_0$
-with structure group $G$, and an analytic isomorphism
-$h:P_0\to P\times_HG$. Consider the fibre space $E$ (respectively $E_0$)
-associated with $P\times_HG$ (respectively $P_0$), with typical fibre $G/H$
-on which $G$ acts by translations. Then
+Necessity is clear. To prove sufficiency, suppose that $\mathrm{P}\times_\mathrm{H}\mathrm{G}$ is
+algebraic. This means that there is a principal algebraic bundle $\mathrm{P}_0$
+with structure group $\mathrm{G}$, and an analytic isomorphism
+$h:\mathrm{P}_0\to \mathrm{P}\times_\mathrm{H}\mathrm{G}$. Consider the bundle $\mathrm{E}$ (respectively $\mathrm{E}_0$)
+associated with $\mathrm{P}\times_\mathrm{H}\mathrm{G}$ (respectively $\mathrm{P}_0$), with typical fiber $\mathrm{G}/\mathrm{H}$
+on which $\mathrm{G}$ acts by translations. Then
 
 \begin{equation*}
-E_0=P_0\times_GG/H
+\mathrm{E}_0=\mathrm{P}_0\times_\mathrm{G}\mathrm{G}/\mathrm{H}
 \qquad\text{and}\qquad
-E=(P\times_HG)\times_GG/H=P\times_HG/H.
+\mathrm{E}=(\mathrm{P}\times_\mathrm{H}\mathrm{G})\times_\mathrm{G}\mathrm{G}/\mathrm{H}=\mathrm{P}\times_\mathrm{H}\mathrm{G}/\mathrm{H}.
 \end{equation*}
 
-The analytic isomorphism $h$ defines an analytic isomorphism $f:E_0\to E$.
-But the fibre space $E=P\times_HG/H$ has a canonical section $s$, because
-$H$ fixes the point of $G/H$ corresponding to the identity element of $G$.
+The analytic isomorphism $h$ defines an analytic isomorphism $f:\mathrm{E}_0\to \mathrm{E}$.
+But the bundle $\mathrm{E}=\mathrm{P}\times_\mathrm{H}\mathrm{G}/\mathrm{H}$ has a canonical section $s$, because
+$\mathrm{H}$ fixes the point of $\mathrm{G}/\mathrm{H}$ corresponding to the identity element of $\mathrm{G}$.
 The isomorphism $f$ transforms $s$ into a section
-$s_0=f^{-1}\circ s$ of $E_0$. The section $s_0$ is holomorphic and hence,
+$s_0=f^{-1}\circ s$ of $\mathrm{E}_0$. The section $s_0$ is holomorphic and hence,
 by Proposition~\hyperref[gaga:prop:15]{15}, regular.
 
-On the other hand, since $G$ acts on $P_0$, so does $H$, and $P_0/H$ is
-precisely $E_0$. More exactly, $P_0$ is a principal algebraic fibre space with
-base $E_0$ and structure group $H$. This is easily checked by a local
-argument, using the hypothesis that $G$ is a principal algebraic fibre space
-with base $G/H$ and structure group $H$. Let
-$P_1=s_0^{-1}(P_0)$ be the inverse image of $P_0$ under the map
-$s_0:X\to E_0$. The fibre space $P_1$ is a principal algebraic fibre space
-with base $X$ and structure group $H$. We shall show that $P_1$ is
-analytically isomorphic to $P$, which will prove the proposition.
+On the other hand, since $\mathrm{G}$ acts on $\mathrm{P}_0$, so does $\mathrm{H}$, and $\mathrm{P}_0/\mathrm{H}$ is
+precisely $\mathrm{E}_0$. More exactly, $\mathrm{P}_0$ is a principal algebraic bundle with
+base $\mathrm{E}_0$ and structure group $\mathrm{H}$. This is easily checked by a local
+argument, using the hypothesis that $\mathrm{G}$ is a principal algebraic bundle
+with base $\mathrm{G}/\mathrm{H}$ and structure group $\mathrm{H}$. Let
+$\mathrm{P}_1=s_0^{-1}(\mathrm{P}_0)$ be the inverse image of $\mathrm{P}_0$ under the map
+$s_0:\mathrm{X}\to \mathrm{E}_0$. The bundle $\mathrm{P}_1$ is a principal algebraic bundle
+with base $\mathrm{X}$ and structure group $\mathrm{H}$. We shall show that $\mathrm{P}_1$ is
+analytically isomorphic to $\mathrm{P}$, which will prove the proposition.
 
 The relation $s_0=f^{-1}\circ s$, together with the fact that $f$ is an
-analytic isomorphism, shows that $P_1=s_0^{-1}(P_0)$ is analytically
-isomorphic to the inverse image of $P\times_HG$, regarded as a principal
-fibre space with structure group $H$, under the map $s:X\to E$. This last
-inverse image is precisely $P$, as the commutative diagram shows:
+analytic isomorphism, shows that $\mathrm{P}_1=s_0^{-1}(\mathrm{P}_0)$ is analytically
+isomorphic to the inverse image of $\mathrm{P}\times_\mathrm{H}\mathrm{G}$, regarded as a principal
+bundle with structure group $\mathrm{H}$, under the map $s:\mathrm{X}\to \mathrm{E}$. This last
+inverse image is precisely $\mathrm{P}$, as the commutative diagram shows:
 
 \begin{center}
 \begin{tikzcd}[column sep=large,row sep=large]
-P \arrow[r] \arrow[d] & P\times_HG \arrow[d] \\
-X \arrow[r,"s"] & E=P\times_HG/H.
+\mathrm{P} \arrow[r] \arrow[d] & \mathrm{P}\times_\mathrm{H}\mathrm{G} \arrow[d] \\
+\mathrm{X} \arrow[r,"s"] & \mathrm{E}=\mathrm{P}\times_\mathrm{H}\mathrm{G}/\mathrm{H}.
 \end{tikzcd}
 \end{center}
 
@@ -313,18 +313,18 @@ This completes the proof.
 Combining Propositions~\hyperref[gaga:prop:18]{18} and
 \hyperref[gaga:prop:19]{19}, we obtain:
 
-\GAGATarget{gaga:prop:20}\textsc{Proposition 20}. --- \emph{Let $G$ be an
+\GAGATarget{gaga:prop:20}\textsc{Proposition 20}. --- \emph{Let $\mathrm{G}$ be an
 algebraic subgroup of $\mathrm{GL}_n(\mathbf{C})$ satisfying the following
 condition:}
 
 \GAGATarget{gaga:condition:R}(R) --- \emph{There is a rational section
-$\mathrm{GL}_n(\mathbf{C})/G\to\mathrm{GL}_n(\mathbf{C})$.}
+$\mathrm{GL}_n(\mathbf{C})/\mathrm{G}\to\mathrm{GL}_n(\mathbf{C})$.}
 
-\emph{Then, for every projective variety $X$, the map}
+\emph{Then, for every projective variety $\mathrm{X}$, the map}
 
 \begin{equation*}
-\varepsilon:\mathrm{H}^1(X,\mathcal{G})
-\longrightarrow\mathrm{H}^1(X^h,\mathcal{G}^h)
+\varepsilon:\mathrm{H}^1(\mathrm{X},\mathcal{G})
+\longrightarrow\mathrm{H}^1(\mathrm{X}^h,\mathcal{G}^h)
 \end{equation*}
 
 \emph{is bijective.}
@@ -332,13 +332,13 @@ $\mathrm{GL}_n(\mathbf{C})/G\to\mathrm{GL}_n(\mathbf{C})$.}
 \emph{Examples}. --- Condition (R) holds in the following cases:
 
 \begin{enumerate}[label=\emph{\alph*)},leftmargin=2.2em]
-\item when $G$ is \emph{solvable}, by a theorem of Rosenlicht \GAGACite{13};
+\item when $\mathrm{G}$ is \emph{solvable}, by a theorem of Rosenlicht \GAGACite{13};
 
-\item when $G=\mathrm{SL}_n(\mathbf{C})$, the rational section then being
+\item when $\mathrm{G}=\mathrm{SL}_n(\mathbf{C})$, the rational section then being
 obvious;
 
-\item when $G=\mathrm{Sp}_n(\mathbf{C})$, $n=2m$. In this case the homogeneous
-space $\mathrm{GL}_n(\mathbf{C})/G$ is the space of non-degenerate alternating
+\item when $\mathrm{G}=\mathrm{S}p_n(\mathbf{C})$, $n=2m$. In this case the homogeneous
+space $\mathrm{GL}_n(\mathbf{C})/\mathrm{G}$ is the space of non-degenerate alternating
 forms
 
 \begin{equation*}
@@ -362,15 +362,15 @@ $\mathbf{C}(u_{ij})$.
 \end{enumerate}
 
 The last two examples suggest the conjecture that condition (R) holds whenever
-$G$ is a \emph{simply connected semisimple group}.
+$\mathrm{G}$ is a \emph{simply connected semisimple group}.
 
 On the other hand, one can show that the unimodular orthogonal group
-$G=\mathrm{O}_n^+(\mathbf{C})$ does not satisfy condition (R) when $n\geqslant3$.
+$\mathrm{G}=\mathrm{O}_n^+(\mathbf{C})$ does not satisfy condition (R) when $n\geqslant3$.
 I do not know whether, in that case, the map
 
 \begin{equation*}
-\varepsilon:\mathrm{H}^1(X,\mathcal{G})
-\longrightarrow\mathrm{H}^1(X^h,\mathcal{G}^h)
+\varepsilon:\mathrm{H}^1(\mathrm{X},\mathcal{G})
+\longrightarrow\mathrm{H}^1(\mathrm{X}^h,\mathcal{G}^h)
 \end{equation*}
 
 is bijective.

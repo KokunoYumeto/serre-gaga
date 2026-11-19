@@ -1,0 +1,117 @@
+category	item	status	detail
+required source	README.fr.md	PASS	Required filename retained.
+required source	README.md	PASS	Required filename retained.
+required source	english/GAGA_English_source_aligned.tex	PASS	Required filename retained.
+required source	english/components/00_title_and_introduction.tex	PASS	Required filename retained.
+required source	english/components/01_analytic_spaces.tex	PASS	Required filename retained.
+required source	english/components/02_associated_analytic_space.tex	PASS	Required filename retained.
+required source	english/components/03_sheaf_correspondence_nos09_12.tex	PASS	Required filename retained.
+required source	english/components/04_proofs_theorems1_3_nos13_17.tex	PASS	Required filename retained.
+required source	english/components/05_applications_nos18_20.tex	PASS	Required filename retained.
+required source	english/components/06_appendix_nos21_24_bibliography.tex	PASS	Required filename retained.
+required source	french-corrected/gaga.tex	PASS	Required filename retained.
+required source	french-corrected/gaga_body.tex	PASS	Required filename retained.
+required source	french-diplomatic/gaga.tex	PASS	Required filename retained.
+required source	french-diplomatic/gaga_body.tex	PASS	Required filename retained.
+original manifest	english/components/00_title_and_introduction.tex	PASS	Original reference SHA-256 matches.
+original manifest	english/components/01_analytic_spaces.tex	PASS	Original reference SHA-256 matches.
+original manifest	english/components/02_associated_analytic_space.tex	PASS	Original reference SHA-256 matches.
+original manifest	english/components/03_sheaf_correspondence_nos09_12.tex	PASS	Original reference SHA-256 matches.
+original manifest	english/components/04_proofs_theorems1_3_nos13_17.tex	PASS	Original reference SHA-256 matches.
+original manifest	english/components/05_applications_nos18_20.tex	PASS	Original reference SHA-256 matches.
+original manifest	english/components/06_appendix_nos21_24_bibliography.tex	PASS	Original reference SHA-256 matches.
+original manifest	english/GAGA_English_source_aligned.tex	PASS	Original reference SHA-256 matches.
+original manifest	french-corrected/gaga.tex	PASS	Original reference SHA-256 matches.
+original manifest	french-corrected/gaga_body.tex	PASS	Original reference SHA-256 matches.
+original manifest	french-diplomatic/gaga.tex	PASS	Original reference SHA-256 matches.
+original manifest	french-diplomatic/gaga_body.tex	PASS	Original reference SHA-256 matches.
+original manifest	README.fr.md	PASS	Original reference SHA-256 matches.
+original manifest	README.md	PASS	Original reference SHA-256 matches.
+README rights and credits	README.fr.md	PASS	Complete supplied README is byte-identical.
+Thomas Waring credit	README.fr.md	PASS	Exact name occurrences: original=1, current=1; full wording is covered by README equality.
+ledger reconstruction	README.fr.md	PASS	Exact final equality=true; ledger rows=0; unresolved rows=0.
+README rights and credits	README.md	PASS	Complete supplied README is byte-identical.
+Thomas Waring credit	README.md	PASS	Exact name occurrences: original=1, current=1; full wording is covered by README equality.
+ledger reconstruction	README.md	PASS	Exact final equality=true; ledger rows=0; unresolved rows=0.
+page markers	english/GAGA_English_source_aligned.tex	PASS	Exact marker lines and order: original=0, current=0.
+labels and anchors	english/GAGA_English_source_aligned.tex	PASS	Targets: original=0, current=0; missing=0; added=0.
+required macros	english/GAGA_English_source_aligned.tex	PASS	Removed or changed macro signatures: 0. Added macros are allowed and remain subject to ledger replay.
+source inclusions	english/GAGA_English_source_aligned.tex	PASS	Literal input/include targets: original=7, current=7; missing=0.
+leading provenance comments	english/GAGA_English_source_aligned.tex	PASS	Original leading comment block retained verbatim.
+protected front-matter credit	english/GAGA_English_source_aligned.tex credit line 1	PASS	Original credit/provenance line SHA-256=568d3105811b7b84ed8b7dd6d84063f67d47173d96201dbb4cdf349be58b9337; retained verbatim.
+protected front-matter credit	english/GAGA_English_source_aligned.tex credit line 2	PASS	Original credit/provenance line SHA-256=c2015a003746e0465433ece9f24e6a0b114bd00cb62dbad8b5c457257aa7b767; retained verbatim.
+ledger reconstruction	english/GAGA_English_source_aligned.tex	PASS	Exact final equality=true; ledger rows=0; unresolved rows=0.
+page markers	english/components/00_title_and_introduction.tex	PASS	Exact marker lines and order: original=0, current=0.
+labels and anchors	english/components/00_title_and_introduction.tex	PASS	Targets: original=1, current=1; missing=0; added=0.
+required macros	english/components/00_title_and_introduction.tex	PASS	Removed or changed macro signatures: 0. Added macros are allowed and remain subject to ledger replay.
+source inclusions	english/components/00_title_and_introduction.tex	PASS	Literal input/include targets: original=0, current=0; missing=0.
+front-matter block	english/components/00_title_and_introduction.tex	PASS	Exact block unchanged.
+protected front-matter credit	english/components/00_title_and_introduction.tex credit line 1	PASS	Original credit/provenance line SHA-256=80209aeafbedb73899edbb386c19fb53acd442426101c6aafcbc610ed810bcda; retained verbatim.
+ledger reconstruction	english/components/00_title_and_introduction.tex	PASS	Exact final equality=true; ledger rows=2; unresolved rows=0.
+page markers	english/components/01_analytic_spaces.tex	PASS	Exact marker lines and order: original=0, current=0.
+labels and anchors	english/components/01_analytic_spaces.tex	PASS	Targets: original=7, current=7; missing=0; added=0.
+required macros	english/components/01_analytic_spaces.tex	PASS	Removed or changed macro signatures: 0. Added macros are allowed and remain subject to ledger replay.
+source inclusions	english/components/01_analytic_spaces.tex	PASS	Literal input/include targets: original=0, current=0; missing=0.
+ledger reconstruction	english/components/01_analytic_spaces.tex	PASS	Exact final equality=true; ledger rows=12; unresolved rows=0.
+page markers	english/components/02_associated_analytic_space.tex	PASS	Exact marker lines and order: original=0, current=0.
+labels and anchors	english/components/02_associated_analytic_space.tex	PASS	Targets: original=23, current=23; missing=0; added=0.
+required macros	english/components/02_associated_analytic_space.tex	PASS	Removed or changed macro signatures: 0. Added macros are allowed and remain subject to ledger replay.
+source inclusions	english/components/02_associated_analytic_space.tex	PASS	Literal input/include targets: original=0, current=0; missing=0.
+ledger reconstruction	english/components/02_associated_analytic_space.tex	PASS	Exact final equality=true; ledger rows=228; unresolved rows=0.
+page markers	english/components/03_sheaf_correspondence_nos09_12.tex	PASS	Exact marker lines and order: original=0, current=0.
+labels and anchors	english/components/03_sheaf_correspondence_nos09_12.tex	PASS	Targets: original=14, current=14; missing=0; added=0.
+required macros	english/components/03_sheaf_correspondence_nos09_12.tex	PASS	Removed or changed macro signatures: 0. Added macros are allowed and remain subject to ledger replay.
+source inclusions	english/components/03_sheaf_correspondence_nos09_12.tex	PASS	Literal input/include targets: original=0, current=0; missing=0.
+ledger reconstruction	english/components/03_sheaf_correspondence_nos09_12.tex	PASS	Exact final equality=true; ledger rows=47; unresolved rows=0.
+page markers	english/components/04_proofs_theorems1_3_nos13_17.tex	PASS	Exact marker lines and order: original=0, current=0.
+labels and anchors	english/components/04_proofs_theorems1_3_nos13_17.tex	PASS	Targets: original=19, current=19; missing=0; added=0.
+required macros	english/components/04_proofs_theorems1_3_nos13_17.tex	PASS	Removed or changed macro signatures: 0. Added macros are allowed and remain subject to ledger replay.
+source inclusions	english/components/04_proofs_theorems1_3_nos13_17.tex	PASS	Literal input/include targets: original=0, current=0; missing=0.
+ledger reconstruction	english/components/04_proofs_theorems1_3_nos13_17.tex	PASS	Exact final equality=true; ledger rows=115; unresolved rows=0.
+page markers	english/components/05_applications_nos18_20.tex	PASS	Exact marker lines and order: original=0, current=0.
+labels and anchors	english/components/05_applications_nos18_20.tex	PASS	Targets: original=18, current=18; missing=0; added=0.
+required macros	english/components/05_applications_nos18_20.tex	PASS	Removed or changed macro signatures: 0. Added macros are allowed and remain subject to ledger replay.
+source inclusions	english/components/05_applications_nos18_20.tex	PASS	Literal input/include targets: original=0, current=0; missing=0.
+ledger reconstruction	english/components/05_applications_nos18_20.tex	PASS	Exact final equality=true; ledger rows=246; unresolved rows=0.
+page markers	english/components/06_appendix_nos21_24_bibliography.tex	PASS	Exact marker lines and order: original=0, current=0.
+labels and anchors	english/components/06_appendix_nos21_24_bibliography.tex	PASS	Targets: original=44, current=44; missing=0; added=0.
+required macros	english/components/06_appendix_nos21_24_bibliography.tex	PASS	Removed or changed macro signatures: 0. Added macros are allowed and remain subject to ledger replay.
+source inclusions	english/components/06_appendix_nos21_24_bibliography.tex	PASS	Literal input/include targets: original=0, current=0; missing=0.
+ledger reconstruction	english/components/06_appendix_nos21_24_bibliography.tex	PASS	Exact final equality=true; ledger rows=277; unresolved rows=0.
+page markers	french-corrected/gaga.tex	PASS	Exact marker lines and order: original=0, current=0.
+labels and anchors	french-corrected/gaga.tex	PASS	Targets: original=0, current=0; missing=0; added=0.
+required macros	french-corrected/gaga.tex	PASS	Removed or changed macro signatures: 0. Added macros are allowed and remain subject to ledger replay.
+source inclusions	french-corrected/gaga.tex	PASS	Literal input/include targets: original=1, current=1; missing=0.
+leading provenance comments	french-corrected/gaga.tex	PASS	Original leading comment block retained verbatim.
+protected front-matter credit	french-corrected/gaga.tex credit line 1	PASS	Original credit/provenance line SHA-256=c4570fb0e2d7f80877c930f93668f1842ade1cbe8fca9256e5c89207be44e576; retained verbatim.
+protected front-matter credit	french-corrected/gaga.tex credit line 2	PASS	Original credit/provenance line SHA-256=1a98f90b169286460644fabd6550429b9d4fc219993672d5381fdc08c310bc91; retained verbatim.
+ledger reconstruction	french-corrected/gaga.tex	PASS	Exact final equality=true; ledger rows=2; unresolved rows=0.
+page markers	french-corrected/gaga_body.tex	PASS	Exact marker lines and order: original=42, current=42.
+printed page sequence	french-corrected/gaga_body.tex	PASS	Required sequence is exactly 1 through 42, once each.
+labels and anchors	french-corrected/gaga_body.tex	PASS	Targets: original=0, current=0; missing=0; added=0.
+required macros	french-corrected/gaga_body.tex	PASS	Removed or changed macro signatures: 0. Added macros are allowed and remain subject to ledger replay.
+source inclusions	french-corrected/gaga_body.tex	PASS	Literal input/include targets: original=0, current=0; missing=0.
+leading provenance comments	french-corrected/gaga_body.tex	PASS	Original leading comment block retained verbatim.
+front-matter block	french-corrected/gaga_body.tex	REVIEW	Exact block differs; title/layout edits require assessment against their ledger rows, independently of protected credits.
+protected front-matter credit	french-corrected/gaga_body.tex credit line 1	REVIEW	Original credit/provenance line SHA-256=94d090c0eb5bfd4e7418e2ffd4138c67a85540abe71391f43aca3b05a8982127; exact article-author markup changed from the supplied small-caps line to the recognized centered/bold/uppercase line. The literal name tokens Jean-Pierre and Serre are retained. Primary-reader confirmation of printed-page-1 typography and unchanged attribution is required; no automatic clearance is given. Full original/current blocks remain in frontmatter_changes.diff.
+ledger reconstruction	french-corrected/gaga_body.tex	PASS	Exact final equality=true; ledger rows=733; unresolved rows=0.
+page markers	french-diplomatic/gaga.tex	PASS	Exact marker lines and order: original=0, current=0.
+labels and anchors	french-diplomatic/gaga.tex	PASS	Targets: original=0, current=0; missing=0; added=0.
+required macros	french-diplomatic/gaga.tex	PASS	Removed or changed macro signatures: 0. Added macros are allowed and remain subject to ledger replay.
+source inclusions	french-diplomatic/gaga.tex	PASS	Literal input/include targets: original=1, current=1; missing=0.
+leading provenance comments	french-diplomatic/gaga.tex	PASS	Original leading comment block retained verbatim.
+protected front-matter credit	french-diplomatic/gaga.tex credit line 1	PASS	Original credit/provenance line SHA-256=c4570fb0e2d7f80877c930f93668f1842ade1cbe8fca9256e5c89207be44e576; retained verbatim.
+protected front-matter credit	french-diplomatic/gaga.tex credit line 2	PASS	Original credit/provenance line SHA-256=1a98f90b169286460644fabd6550429b9d4fc219993672d5381fdc08c310bc91; retained verbatim.
+ledger reconstruction	french-diplomatic/gaga.tex	PASS	Exact final equality=true; ledger rows=2; unresolved rows=0.
+page markers	french-diplomatic/gaga_body.tex	PASS	Exact marker lines and order: original=42, current=42.
+printed page sequence	french-diplomatic/gaga_body.tex	PASS	Required sequence is exactly 1 through 42, once each.
+labels and anchors	french-diplomatic/gaga_body.tex	PASS	Targets: original=0, current=0; missing=0; added=0.
+required macros	french-diplomatic/gaga_body.tex	PASS	Removed or changed macro signatures: 0. Added macros are allowed and remain subject to ledger replay.
+source inclusions	french-diplomatic/gaga_body.tex	PASS	Literal input/include targets: original=0, current=0; missing=0.
+leading provenance comments	french-diplomatic/gaga_body.tex	PASS	Original leading comment block retained verbatim.
+front-matter block	french-diplomatic/gaga_body.tex	REVIEW	Exact block differs; title/layout edits require assessment against their ledger rows, independently of protected credits.
+protected front-matter credit	french-diplomatic/gaga_body.tex credit line 1	REVIEW	Original credit/provenance line SHA-256=94d090c0eb5bfd4e7418e2ffd4138c67a85540abe71391f43aca3b05a8982127; exact article-author markup changed from the supplied small-caps line to the recognized centered/bold/uppercase line. The literal name tokens Jean-Pierre and Serre are retained. Primary-reader confirmation of printed-page-1 typography and unchanged attribution is required; no automatic clearance is given. Full original/current blocks remain in frontmatter_changes.diff.
+ledger reconstruction	french-diplomatic/gaga_body.tex	PASS	Exact final equality=true; ledger rows=732; unresolved rows=0.
+French preamble equality	French main files	PASS	Preambles are byte-identical.
+French residual coverage	printed page 11 diff 1	REVIEW	no exact changed-core candidate; manual coverage review required
+French residual coverage	printed page 36 diff 1	REVIEW	no exact changed-core candidate; manual coverage review required

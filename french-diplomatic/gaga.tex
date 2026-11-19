@@ -62,6 +62,14 @@
 \providecommand{\codim}{\operatorname{codim}}
 \providecommand{\prof}{\operatorname{prof}}
 
+% Parenthesized footnote numbers reproduce the printed article.
+% Keep Babel from replacing the custom footnote text formatter.
+\frenchsetup{FrenchFootnotes=false}
+\makeatletter
+\renewcommand{\@makefnmark}{\hbox{\normalfont(\textsuperscript{\normalfont\@thefnmark})}}
+\renewcommand{\@makefntext}[1]{\parindent 1em\noindent\hb@xt@1.8em{\hss\@makefnmark}\,#1}
+\makeatother
+
 \begin{document}
 \input{gaga_body}
 \end{document}

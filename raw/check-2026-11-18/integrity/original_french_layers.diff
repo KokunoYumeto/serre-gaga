@@ -1,0 +1,155 @@
+--- original-diplomatic/printed-page-4
++++ original-corrected/printed-page-4
+@@ -20,6 +20,6 @@
+ 
+ $(\mathrm{H}_{\mathrm{II}})$. \emph{La topologie de} $\mathrm{X}$ \emph{est séparée.}
+ 
+-Les définitions du n\textsuperscript{o} 1, étant de caractère local, se transportent aux espaces analytiques. Ainsi, si $\mathrm{X}$ est un espace analytique, le faisceau $\mathcal{H}_{\mathrm{X}}$ sera appelé le faisceau des germes de fonctions holomorphes sur $\mathrm{X}$ ; si $\mathrm{X}$ et $\mathrm{Y}$ sont deux espaces analytiques, une application $\varphi : \mathrm{X} \to \mathrm{Y}$ sera dite holomorphe si elle continue, et si $f \in \mathcal{H}_{\varphi(x),\,\mathrm{Y}}$ entraîne $f \circ \varphi \in \mathcal{H}_{x,\,\mathrm{X}}$ ; ces applications forment une famille de \emph{morphismes} (au sens de N. \textsc{Bourbaki}) pour la structure d'espace analytique.
++Les définitions du n\textsuperscript{o} 1, étant de caractère local, se transportent aux espaces analytiques. Ainsi, si $\mathrm{X}$ est un espace analytique, le faisceau $\mathcal{H}_{\mathrm{X}}$ sera appelé le faisceau des germes de fonctions holomorphes sur $\mathrm{X}$ ; si $\mathrm{X}$ et $\mathrm{Y}$ sont deux espaces analytiques, une application $\varphi : \mathrm{X} \to \mathrm{Y}$ sera dite holomorphe si elle est continue, et si $f \in \mathcal{H}_{\varphi(x),\,\mathrm{Y}}$ entraîne $f \circ \varphi \in \mathcal{H}_{x,\,\mathrm{X}}$ ; ces applications forment une famille de \emph{morphismes} (au sens de N. \textsc{Bourbaki}) pour la structure d'espace analytique.
+ 
+ 
+--- original-diplomatic/printed-page-5
++++ original-corrected/printed-page-5
+@@ -1,6 +1,6 @@
+ %%%%%%%%%%  printed page 5  %%%%%%%%%%
+ 
+-Si $\mathrm{V}$ est un sous-ensemble ouvert d'un espace analytique $\mathrm{X}$, nous appellerons \textit{carte} de $\mathrm{V}$ tout isomorphisme analytique de $\mathrm{V}$ sur un sous-ensemble analytique $\mathrm{U}$ d'un espace affine. L'axiome $(\mathrm{H}_{\mathrm{II}})$ signifie qu'il est possible de recouvrir $\mathrm{X}$ par des ouverts possédant des cartes. Si $\mathrm{Y}$ est un sous-ensemble de $\mathrm{X}$, nous dirons que $\mathrm{Y}$ est analytique si, pour toute carte $\varphi : \mathrm{V} \to \mathrm{U}$, l'image $\varphi(\mathrm{Y} \cap \mathrm{V})$ est un sous-ensemble analytique de $\mathrm{U}$. S'il en est ainsi, $\mathrm{Y}$ est localement fermé dans $\mathrm{X}$, et peut être muni de façon naturelle d'une structure d'espace analytique, dite \textit{induite} par celle de $\mathrm{X}$ (cf. [18], n\textsuperscript{o} 35 pour le cas algébrique). De même, soient $\mathrm{X}$ et $\mathrm{X}'$ deux espaces analytiques ; il existe alors sur $\mathrm{X} \times \mathrm{X}'$ une structure d'espace analytique et une seule telle que, si $\varphi : \mathrm{V} \to \mathrm{U}$ et $\varphi' : \mathrm{V}' \to \mathrm{U}'$ sont des cartes, $\varphi \times \varphi' : \mathrm{V} \times \mathrm{V}' \to \mathrm{U} \times \mathrm{U}'$ soit une carte de $\mathrm{V} \times \mathrm{V}'$ ; muni de cette structure, $\mathrm{X} \times \mathrm{X}'$ est appelé le \textit{produit} des espaces analytiques $\mathrm{X}$ et $\mathrm{X}'$ ; on observera que la topologie de $\mathrm{X} \times \mathrm{X}'$ coïncide avec la topologie produit des topologies de $\mathrm{X}$ et de $\mathrm{X}'$.
++Si $\mathrm{V}$ est un sous-ensemble ouvert d'un espace analytique $\mathrm{X}$, nous appellerons \textit{carte} de $\mathrm{V}$ tout isomorphisme analytique de $\mathrm{V}$ sur un sous-ensemble analytique $\mathrm{U}$ d'un espace affine. L'axiome $(\mathrm{H}_{\mathrm{I}})$ signifie qu'il est possible de recouvrir $\mathrm{X}$ par des ouverts possédant des cartes. Si $\mathrm{Y}$ est un sous-ensemble de $\mathrm{X}$, nous dirons que $\mathrm{Y}$ est analytique si, pour toute carte $\varphi : \mathrm{V} \to \mathrm{U}$, l'image $\varphi(\mathrm{Y} \cap \mathrm{V})$ est un sous-ensemble analytique de $\mathrm{U}$. S'il en est ainsi, $\mathrm{Y}$ est localement fermé dans $\mathrm{X}$, et peut être muni de façon naturelle d'une structure d'espace analytique, dite \textit{induite} par celle de $\mathrm{X}$ (cf. [18], n\textsuperscript{o} 35 pour le cas algébrique). De même, soient $\mathrm{X}$ et $\mathrm{X}'$ deux espaces analytiques ; il existe alors sur $\mathrm{X} \times \mathrm{X}'$ une structure d'espace analytique et une seule telle que, si $\varphi : \mathrm{V} \to \mathrm{U}$ et $\varphi' : \mathrm{V}' \to \mathrm{U}'$ sont des cartes, $\varphi \times \varphi' : \mathrm{V} \times \mathrm{V}' \to \mathrm{U} \times \mathrm{U}'$ soit une carte de $\mathrm{V} \times \mathrm{V}'$ ; muni de cette structure, $\mathrm{X} \times \mathrm{X}'$ est appelé le \textit{produit} des espaces analytiques $\mathrm{X}$ et $\mathrm{X}'$ ; on observera que la topologie de $\mathrm{X} \times \mathrm{X}'$ coïncide avec la topologie produit des topologies de $\mathrm{X}$ et de $\mathrm{X}'$.
+ 
+ Nous laissons au lecteur le soin de transposer aux espaces analytiques les autres résultats de [18], n\textsuperscript{os} 34-35.
+ 
+--- original-diplomatic/printed-page-6
++++ original-corrected/printed-page-6
+@@ -1,6 +1,6 @@
+ %%%%%%%%%%  printed page 6  %%%%%%%%%%
+ 
+-Dans le cas où $\mathrm{X}$ est un ouvert de $\mathbf{C}^n$, ces résultats sont dus à K. \textsc{Oka} et H. \textsc{Cartan} cf. [1], ths. 1 et 2 ainsi que [2], exp. XV-XVI. Le cas général se ramène immédiatement à celui-là ; en effet, la question étant locale, on peut supposer que $\mathrm{X}$ est un sous-ensemble analytique fermé d'un ouvert $\mathrm{U}$ de $\mathbf{C}^n$ ; on a $\mathcal{H}_{\mathrm{X}} = \mathcal{H}_{\mathrm{U}}/\mathcal{J}(\mathrm{X})$, et, d'après ce qui précède, $\mathcal{H}_{\mathrm{U}}$ est un faisceau cohérent d'anneaux, et $\mathcal{J}(\mathrm{X})$ est un faisceau cohérent d'idéaux de $\mathcal{H}_{\mathrm{U}}$ ; il en résulte bien que $\mathcal{H}_{\mathrm{U}}$ est cohérent, cf. [18], n\textsuperscript{o} 16. L'assertion \textit{b}) se démontre de la même manière.
++Dans le cas où $\mathrm{X}$ est un ouvert de $\mathbf{C}^n$, ces résultats sont dus à K. \textsc{Oka} et H. \textsc{Cartan} cf. [1], ths. 1 et 2 ainsi que [2], exp. XV-XVI. Le cas général se ramène immédiatement à celui-là ; en effet, la question étant locale, on peut supposer que $\mathrm{X}$ est un sous-ensemble analytique fermé d'un ouvert $\mathrm{U}$ de $\mathbf{C}^n$ ; on a $\mathcal{H}_{\mathrm{X}} = \mathcal{H}_{\mathrm{U}}/\mathcal{J}(\mathrm{X})$, et, d'après ce qui précède, $\mathcal{H}_{\mathrm{U}}$ est un faisceau cohérent d'anneaux, et $\mathcal{J}(\mathrm{X})$ est un faisceau cohérent d'idéaux de $\mathcal{H}_{\mathrm{U}}$ ; il en résulte bien que $\mathcal{H}_{\mathrm{X}}$ est cohérent, cf. [18], n\textsuperscript{o} 16. L'assertion \textit{b}) se démontre de la même manière.
+ 
+ Comme autres exemples de faisceaux analytiques cohérents, signalons les faisceaux de germes de sections d'espaces fibrés à fibre vectorielle (cf. n\textsuperscript{o} 20), et les faisceaux de germes de fonctions automorphes ([3], exp. XX).
+ 
+--- original-diplomatic/printed-page-8
++++ original-corrected/printed-page-8
+@@ -13,7 +13,7 @@
+ 
+ (Plus brièvement : toute carte algébrique doit être une carte analytique).
+ 
+-L'unicité est évidente, puisque l'on peut recouvrir $\mathrm{X}$ par des ensembles Z-ouverts $\mathrm{V}$ possédant des cartes. Pour prouver l'existence, soit $\varphi : \mathrm{V} \to \mathrm{U}$ une carte, et transportons à $\mathrm{V}$ la structure analytique de $\mathrm{U}$ au moyen de $\varphi^{-1}$. Si $\varphi' : \mathrm{V}' : \to \mathrm{U}'$ est une autre carte, les structures analytiques induites sur $\mathrm{V} \cap \mathrm{V}'$ par $\mathrm{V}$ et par $\mathrm{V}'$ sont les mêmes, en vertu du lemme 1, \textit{d}) ; de plus $\mathrm{V} \cap \mathrm{V}'$ est ouvert à la fois dans $\mathrm{V}$ et dans $\mathrm{V}'$, en vertu du lemme 1, \textit{a}). Par recollement, on obtient ainsi sur $\mathrm{X}$ une topologie et un faisceau $\mathcal{H}_{\mathrm{X}}$ qui vérifient visiblement l'axiome $(\mathrm{H}_{\mathrm{I}})$. Pour vérifier $(\mathrm{H}_{\mathrm{II}})$ nous utiliserons l'axiome $(\mathrm{VA}'_{\mathrm{II}})$ de [18], n\textsuperscript{o} 34 ; avec les notations de cet axiome, les graphes $\mathrm{T}_{ij}$ des relations d'identification entre deux $\mathrm{U}_i$ et $\mathrm{U}_j$ sont Z-fermés dans $\mathrm{U}_i \times \mathrm{U}_j$, donc \textit{a fortiori} fermés, ce qui signifie bien que $\mathrm{X}$ est séparé.
++L'unicité est évidente, puisque l'on peut recouvrir $\mathrm{X}$ par des ensembles Z-ouverts $\mathrm{V}$ possédant des cartes. Pour prouver l'existence, soit $\varphi : \mathrm{V} \to \mathrm{U}$ une carte, et transportons à $\mathrm{V}$ la structure analytique de $\mathrm{U}$ au moyen de $\varphi^{-1}$. Si $\varphi' : \mathrm{V}' \to \mathrm{U}'$ est une autre carte, les structures analytiques induites sur $\mathrm{V} \cap \mathrm{V}'$ par $\mathrm{V}$ et par $\mathrm{V}'$ sont les mêmes, en vertu du lemme 1, \textit{d}) ; de plus $\mathrm{V} \cap \mathrm{V}'$ est ouvert à la fois dans $\mathrm{V}$ et dans $\mathrm{V}'$, en vertu du lemme 1, \textit{a}). Par recollement, on obtient ainsi sur $\mathrm{X}$ une topologie et un faisceau $\mathcal{H}_{\mathrm{X}}$ qui vérifient visiblement l'axiome $(\mathrm{H}_{\mathrm{I}})$. Pour vérifier $(\mathrm{H}_{\mathrm{II}})$ nous utiliserons l'axiome $(\mathrm{VA}'_{\mathrm{II}})$ de [18], n\textsuperscript{o} 34 ; avec les notations de cet axiome, les graphes $\mathrm{T}_{ij}$ des relations d'identification entre deux $\mathrm{U}_i$ et $\mathrm{U}_j$ sont Z-fermés dans $\mathrm{U}_i \times \mathrm{U}_j$, donc \textit{a fortiori} fermés, ce qui signifie bien que $\mathrm{X}$ est séparé.
+ 
+ \textit{Remarque}. --- On peut donner une définition directe de la structure analytique de $\mathrm{X}$, sans passer par les cartes $\varphi : \mathrm{V} \to \mathrm{U}$.
+ 
+--- original-diplomatic/printed-page-14
++++ original-corrected/printed-page-14
+@@ -4,7 +4,7 @@
+ 
+ Soient $X_i$ les composantes irréductibles de $X$ passant par $x$ ; chaque $X_i$ détermine un idéal premier $\mathfrak{p}_i = \mathcal{J}_x(X_i)$ de l'anneau $A$, et l'anneau local quotient $A_i = A/\mathfrak{p}_i$ n'est autre que l'anneau local de $x$ sur $X_i$ ; le corps des quotients de $A_i$, soit $K_i$, n'est donc pas autre chose que le corps des fonctions rationnelles sur la variété irréductible $X_i$. Les idéaux $\mathfrak{p}_i$ sont évidemment les idéaux premiers minimaux de l'anneau $A$, et l'on a $0 = \bigcap \mathfrak{p}_i$. L'ensemble $S$ des éléments de $A$ qui n'appartiennent à aucun des $\mathfrak{p}_i$ est multiplicativement stable (il est facile de voir que c'est l'ensemble des éléments réguliers de $A$). L'anneau total de fractions $A_S$ est égal au composé direct des corps $K_i$ (cf. lemme 3 ci-après).
+ 
+-Soit $T_i = p^{-1}(X_i)$ ; puisque $p$ est un Z-homéomorphisme, les $T_i$ sont les composantes irréductibles de $T$ passant par $t$, et définissent des idéaux premiers $\mathfrak{p}'_i$ de $A'$ ; on posera encore $A'_i = A'/\mathfrak{p}'_i$, et l'on désignera par $K'_i$ le corps des fractions de $A'_i$ ; l'anneau total de fractions $A'_{S'}$ est égal au composé direct des $K'$. Notons que $\mathfrak{p}'_i \cap A = \mathfrak{p}_i$, d'où $A_i \subset A'_i$, $K_i \subset K'_i$ et $A_S \subset A'_{S'}$.
++Soit $T_i = p^{-1}(X_i)$ ; puisque $p$ est un Z-homéomorphisme, les $T_i$ sont les composantes irréductibles de $T$ passant par $t$, et définissent des idéaux premiers $\mathfrak{p}'_i$ de $A'$ ; on posera encore $A'_i = A'/\mathfrak{p}'_i$, et l'on désignera par $K'_i$ le corps des fractions de $A'_i$ ; l'anneau total de fractions $A'_{S'}$ est égal au composé direct des $K'_i$. Notons que $\mathfrak{p}'_i \cap A = \mathfrak{p}_i$, d'où $A_i \subset A'_i$, $K_i \subset K'_i$ et $A_S \subset A'_{S'}$.
+ 
+ Nous allons d'abord montrer que $K_i = K'_i$, autrement dit que $p$ définit une correspondance « birationnelle » entre $T_i$ et $X_i$ ; puisque $p : T_i \to X_i$ est un Z-homéomorphisme, $T_i$ et $X_i$ ont même dimension, et les corps $K_i$ et $K'_i$ ont même degré de transcendance sur $\mathbf{C}$. Si l'on pose alors $n_i = [K'_i : K_i]$, on sait\footnote{C'est un résultat classique, et facile à démontrer, sur les correspondances. On trouvera dans [17], p. 16 un résultat un peu plus faible, mais suffisant pour l'application que nous en faisons.} qu'il existe un sous-ensemble Z-ouvert et non vide $U_i$ de $X_i$ tel que l'image réciproque de tout point de $U_i$ se compose d'exactement $n_i$ points de $T_i$. Comme $p$ est bijectif, ceci montre que $n_i = 1$, et l'on a bien $K_i = K'_i$.
+ 
+--- original-diplomatic/printed-page-17
++++ original-corrected/printed-page-17
+@@ -8,7 +8,7 @@
+ 
+ c) \emph{Si $\mathcal{F}$ est un faisceau algébrique cohérent, $\mathcal{F}^h$ est un faisceau analytique cohérent.}
+ 
+-Si $\mathcal{F}_1 \to \mathcal{F}_2 \to \mathcal{F}_3$ est une suite exacte de faisceaux algébriques, il en est évidemment de même de la suite $\mathcal{F}'_1 \to \mathcal{F}'_2 \to \mathcal{F}_3$, donc aussi de la suite
++Si $\mathcal{F}_1 \to \mathcal{F}_2 \to \mathcal{F}_3$ est une suite exacte de faisceaux algébriques, il en est évidemment de même de la suite $\mathcal{F}'_1 \to \mathcal{F}'_2 \to \mathcal{F}'_3$, donc aussi de la suite
+ 
+ \begin{equation*}
+ \mathcal{F}'_1 \otimes \mathcal{H} \to \mathcal{F}'_2 \otimes \mathcal{H} \to \mathcal{F}'_3 \otimes \mathcal{H},
+--- original-diplomatic/printed-page-18
++++ original-corrected/printed-page-18
+@@ -12,7 +12,7 @@
+ On a alors :
+ 
+ \begin{equation*}
+-(\mathcal{F}^h)^{X}_{x} = E \otimes_A B' \qquad \mathrm{et} \qquad (\mathcal{F}^{X})^{h}_{x} = E \otimes_A B.
++(\mathcal{F}^h)^{X}_{x} = E \otimes_{A'} B' \qquad \mathrm{et} \qquad (\mathcal{F}^{X})^{h}_{x} = E \otimes_A B.
+ \end{equation*}
+ L'anneau $A'$ est le quotient de $A$ par un idéal $\mathfrak{a}$, et, d'après la prop. 4 du n\textsuperscript{o} 6, on a $B' = B/\mathfrak{a}B = B \otimes_A A'$. En vertu de l'associativité du produit tensoriel, on obtient alors un isomorphisme :
+ 
+--- original-diplomatic/printed-page-22
++++ original-corrected/printed-page-22
+@@ -26,7 +26,7 @@
+ %   downwards, label \varepsilon_5 printed to the LEFT of the arrow shaft No horizontal arrow enters
+ %   R1C1/R2C1 from the left and none leaves R1C5/R2C5 to the right; the rows are printed without leading
+ %   or trailing dots.
+-Dans ce diagramme, les homomorphismes $\varepsilon_4$ et $\varepsilon_5$ sont bijectifs, d'après l'hypothèse de récurrence ; d'après ce que l'on vient de dire, il en est de même de $\varepsilon_2$. Le lemme des cinq montre donc que $\varepsilon_3$ est surjectif. Ce résultat, étant valable pour tout faisceau algébrique cohérent $\mathcal{F}$ s'applique en particulier à $\mathcal{R}$, ce qui montre que $\varepsilon_1$ est surjectif. Une nouvelle application du lemme des cinq montre alors que $\varepsilon_3$ est bijectif, ce qui achève la démonstration.
++Dans ce diagramme, les homomorphismes $\varepsilon_4$ et $\varepsilon_5$ sont bijectifs, d'après l'hypothèse de récurrence ; d'après ce que l'on vient de dire, il en est de même de $\varepsilon_2$. Le lemme des cinq montre donc que $\varepsilon_3$ est surjectif. Ce résultat, étant valable pour tout faisceau algébrique cohérent $\mathcal{F}$, s'applique en particulier à $\mathcal{R}$, ce qui montre que $\varepsilon_1$ est surjectif. Une nouvelle application du lemme des cinq montre alors que $\varepsilon_3$ est bijectif, ce qui achève la démonstration.
+ 
+ 
+ 14. Démonstration du théorème 2.
+--- original-diplomatic/printed-page-23
++++ original-corrected/printed-page-23
+@@ -5,7 +5,7 @@
+ \begin{equation*}
+ \mathrm{H}^0(\mathrm{X},\ \mathcal{A}) \xrightarrow{\varepsilon} \mathrm{H}^0(\mathrm{X}^h,\ \mathcal{A}^h) \xrightarrow{\iota} \mathrm{H}^0(\mathrm{X}^h,\ \mathcal{B}).
+ \end{equation*}
+-Un élément de $\mathrm{H}^0(\mathrm{X}^h, \mathcal{A})$ (resp. de $\mathrm{H}^0(\mathrm{X}^h, \mathcal{B})$) n'est pas autre chose qu'un homomorphisme de $\mathcal{F}$ dans $\mathcal{G}$ (resp. de $\mathcal{F}^h$ dans $\mathcal{G}^h$). De plus, si $f \in \mathrm{H}^0(\mathrm{X}, \mathcal{A})$, on a $\iota \circ \varepsilon(f) = f^h$, par définition même de $\iota$. Le théorème 2 revient donc à affirmer que $\iota \circ \varepsilon$ est bijectif. Or $\varepsilon$ est bijectif d'après le théorème 1 (qui est applicable parce que $\mathcal{A}$ est cohérent, d'après [18], n\textsuperscript{o} 14), et $\iota$ est bijectif d'après le lemme 6, c.q.f.d.
++Un élément de $\mathrm{H}^0(\mathrm{X}, \mathcal{A})$ (resp. de $\mathrm{H}^0(\mathrm{X}^h, \mathcal{B})$) n'est pas autre chose qu'un homomorphisme de $\mathcal{F}$ dans $\mathcal{G}$ (resp. de $\mathcal{F}^h$ dans $\mathcal{G}^h$). De plus, si $f \in \mathrm{H}^0(\mathrm{X}, \mathcal{A})$, on a $\iota \circ \varepsilon(f) = f^h$, par définition même de $\iota$. Le théorème 2 revient donc à affirmer que $\iota \circ \varepsilon$ est bijectif. Or $\varepsilon$ est bijectif d'après le théorème 1 (qui est applicable parce que $\mathcal{A}$ est cohérent, d'après [18], n\textsuperscript{o} 14), et $\iota$ est bijectif d'après le lemme 6, c.q.f.d.
+ 
+ 
+ 15. Démonstration du théorème 3. Préliminaires.
+--- original-diplomatic/printed-page-26
++++ original-corrected/printed-page-26
+@@ -17,7 +17,7 @@
+ Ces dimensions sont \textit{finies}, d'après [5] (voir aussi [3], exp. XVII). Il en résulte que dim.$H^1(X^h, \mathcal{M}(n))$ est une fonction \textit{décroissante} de $n$, pour $n \geqslant n_0$; il existe donc un entier $n_1 \geqslant n_0$ tel que la fonction dim.$H^1(X^h, \mathcal{M}(n))$ soit \textit{constante} pour $n \geqslant n_1$. On a alors :
+ 
+ \begin{equation}\tag{8}
+-\mathrm{dim.}\,H^1(X^h, \mathcal{M}(n)) = \mathrm{dim.}\,H^1(X^h, \mathcal{L}_n) = \mathrm{dim.}\,H^1(X^h, \mathcal{M}(n)) \quad \mathrm{si} \quad n > n_1.
++\mathrm{dim.}\,H^1(X^h, \mathcal{M}(n-1)) = \mathrm{dim.}\,H^1(X^h, \mathcal{L}_n) = \mathrm{dim.}\,H^1(X^h, \mathcal{M}(n)) \quad \mathrm{si} \quad n > n_1.
+ \end{equation}
+ Puisque $n_1 \geqslant n_0$, on a $H^1(X^h, \mathcal{B}(n)) = 0$, et la suite exacte (6) montre que $H^1(X^h, \mathcal{L}_n) \to H^1(X^h, \mathcal{M}(n))$ est surjectif; mais, d'après (8), ces deux espaces vectoriels ont même dimension; l'homomorphisme en question est donc injectif, et la suite exacte de cohomologie associée à la suite exacte (4) montre que\footnote{On reconnaît le procédé utilisé par \textsc{Kodaira-Spencer} pour démontrer le théorème de \textsc{Lefschetz} (cf. [12]).} :
+ 
+--- original-diplomatic/printed-page-28
++++ original-corrected/printed-page-28
+@@ -20,7 +20,7 @@
+ \begin{equation*}
+ b_n(\mathrm{X}^\sigma) = \sum_{p + q = n} h^{p,\,q}(\mathrm{X}^\sigma).
+ \end{equation*}
+-Mais, d'après le théorème 1, on a $h^{p,\,q}(\mathrm{X}) = \dim. \mathrm{H}^q(\mathrm{X}, \Omega^p(\mathrm{X}))$, en désignant cette fois par $\Omega^p(\mathrm{X})$ le faisceau algébrique cohérent des germes de formes différentielles régulières de degré $p$ sur $\mathrm{X}$, et de même $h^{p,\,q}(\mathrm{X}^\sigma) = \dim. \mathrm{H}^q(\mathrm{X}^\sigma, \Omega^p(\mathrm{X}^\sigma))$. De plus, si $\omega$ est une forme différentielle régulière sur un sous-ensemble Z-ouvert $\mathrm{U}$ de $\mathrm{X}$, la forme $\omega^\sigma$ est régulière sur le sous-ensemble Z-ouvert $\mathrm{U}^\sigma$ de $\mathrm{X}^\sigma$; on en conclut que pour tout recouvrement Z-ouvert $\mathfrak{U}$ de $\mathrm{X}$, $\sigma$ définit un isomorphisme semi-linéaire de $\mathrm{C}(\mathfrak{U}, \Omega^p(\mathrm{X}))$ sur $\mathrm{C}(\mathfrak{U}^\sigma, \Omega^p(\mathrm{X}^\sigma))$, donc de $\mathrm{H}^q(\mathfrak{U}, \Omega^p(\mathrm{X}^\sigma))$ sur $\mathrm{H}^q(\mathfrak{U}^\sigma, \Omega^p(\mathrm{X}^\sigma))$, donc aussi de $\mathrm{H}^q(\mathrm{X}, \Omega^p(\mathrm{X}))$ sur $\mathrm{H}^q(\mathrm{X}^\sigma, \Omega^p(\mathrm{X}^\sigma))$, et l'on a bien $h^{p,\,q}(\mathrm{X}) = h^{p,\,q}(\mathrm{X}^\sigma)$, ce qui démontre la proposition.
++Mais, d'après le théorème 1, on a $h^{p,\,q}(\mathrm{X}) = \dim. \mathrm{H}^q(\mathrm{X}, \Omega^p(\mathrm{X}))$, en désignant cette fois par $\Omega^p(\mathrm{X})$ le faisceau algébrique cohérent des germes de formes différentielles régulières de degré $p$ sur $\mathrm{X}$, et de même $h^{p,\,q}(\mathrm{X}^\sigma) = \dim. \mathrm{H}^q(\mathrm{X}^\sigma, \Omega^p(\mathrm{X}^\sigma))$. De plus, si $\omega$ est une forme différentielle régulière sur un sous-ensemble Z-ouvert $\mathrm{U}$ de $\mathrm{X}$, la forme $\omega^\sigma$ est régulière sur le sous-ensemble Z-ouvert $\mathrm{U}^\sigma$ de $\mathrm{X}^\sigma$; on en conclut que pour tout recouvrement Z-ouvert $\mathfrak{U}$ de $\mathrm{X}$, $\sigma$ définit un isomorphisme semi-linéaire de $\mathrm{C}(\mathfrak{U}, \Omega^p(\mathrm{X}))$ sur $\mathrm{C}(\mathfrak{U}^\sigma, \Omega^p(\mathrm{X}^\sigma))$, donc de $\mathrm{H}^q(\mathfrak{U}, \Omega^p(\mathrm{X}))$ sur $\mathrm{H}^q(\mathfrak{U}^\sigma, \Omega^p(\mathrm{X}^\sigma))$, donc aussi de $\mathrm{H}^q(\mathrm{X}, \Omega^p(\mathrm{X}))$ sur $\mathrm{H}^q(\mathrm{X}^\sigma, \Omega^p(\mathrm{X}^\sigma))$, et l'on a bien $h^{p,\,q}(\mathrm{X}) = h^{p,\,q}(\mathrm{X}^\sigma)$, ce qui démontre la proposition.
+ 
+ La proposition 12 entraîne le résultat suivant, conjecturé par A. \textsc{Weil} :
+ 
+--- original-diplomatic/printed-page-29
++++ original-corrected/printed-page-29
+@@ -7,7 +7,7 @@
+ 
+ C'est le résultat suivant (cf. [6]) :
+ 
+-\textsc{Proposition} 13. --- \textit{Tout sous-ense.nble analytique fermé de l'espace projectif est algébrique.}
++\textsc{Proposition} 13. --- \textit{Tout sous-ensemble analytique fermé de l'espace projectif est algébrique.}
+ 
+ Montrons comment cette proposition résulte du théorème 3. Soit $X$ un espace projectif et soit $Y$ un sous-ensemble analytique fermé de $X^h$. D'après un théorème de H. \textsc{Cartan} cité plus haut (n\textsuperscript{o} 3, prop. 1), le faisceau $\mathcal{H}_Y = \mathcal{H}_X/\mathcal{A}(Y)$ est un faisceau analytique cohérent sur $X^h$ ; il existe donc (th. 3) un faisceau algébrique cohérent $\mathcal{F}$ sur $X$ tel que $\mathcal{H}_Y = \mathcal{F}^h$. D'après la prop. 10, b), le support de $\mathcal{F}^h$ est égal à celui de $\mathcal{F}$ (rappelons, cf. [18], n\textsuperscript{o} 81, que le support de $\mathcal{F}$ est l'ensemble des $x \in X$ tels que $\mathcal{F}_x \neq 0$), donc est Z-fermé, puisque $\mathcal{F}$ est cohérent. Comme $\mathcal{F}^h = \mathcal{H}_Y$, ceci signifie que $Y$ est Z-fermé, c.q.f.d.
+ 
+--- original-diplomatic/printed-page-33
++++ original-corrected/printed-page-33
+@@ -1,6 +1,6 @@
+ %%%%%%%%%%  printed page 33  %%%%%%%%%%
+ 
+-La nécessité est évidente. Pour démontrer la suffisance, supposons que $\mathrm{P} \times_{\mathrm{H}} \mathrm{G}$ soit algébrique. Cela signifie qu'il existe un espace fibré algébrique principal $\mathrm{P}_0$ de groupe structural $\mathrm{G}$, et un isomorphisme analytique $h : \mathrm{P}_0 \to \mathrm{P} \times_{\mathrm{H}} \mathrm{G}$. Considérons l'espace fibré $\mathrm{E}$ (resp. $\mathrm{E}_0$) associé à $\mathrm{P} \times_{\mathrm{H}} \mathrm{G}$. (resp. à $\mathrm{P}_0$) et de fibre type $\mathrm{G}/\mathrm{H}$ sur lequel $\mathrm{G}$ opère par translations. On a :
++La nécessité est évidente. Pour démontrer la suffisance, supposons que $\mathrm{P} \times_{\mathrm{H}} \mathrm{G}$ soit algébrique. Cela signifie qu'il existe un espace fibré algébrique principal $\mathrm{P}_0$ de groupe structural $\mathrm{G}$, et un isomorphisme analytique $h : \mathrm{P}_0 \to \mathrm{P} \times_{\mathrm{H}} \mathrm{G}$. Considérons l'espace fibré $\mathrm{E}$ (resp. $\mathrm{E}_0$) associé à $\mathrm{P} \times_{\mathrm{H}} \mathrm{G}$ (resp. à $\mathrm{P}_0$) et de fibre type $\mathrm{G}/\mathrm{H}$ sur lequel $\mathrm{G}$ opère par translations. On a :
+ 
+ \begin{equation*}
+ \mathrm{E}_0 = \mathrm{P}_0 \times_{\mathrm{G}} \mathrm{G}/\mathrm{H} \qquad \mathrm{et} \qquad \mathrm{E} = (\mathrm{P} \times_{\mathrm{H}} \mathrm{G}) \times_{\mathrm{G}} \mathrm{G}/\mathrm{H} = \mathrm{P} \times_{\mathrm{H}} \mathrm{G}/\mathrm{H}.
+--- original-diplomatic/printed-page-41
++++ original-corrected/printed-page-41
+@@ -34,11 +34,11 @@
+ 
+ [10] A. \textsc{Grothendieck}. A general theory of fibre spaces with structure sheaf. \textit{Kansas Univ.}, 1955.
+ 
+-[11] K. \textsc{Kodaira}. On Kähler varieties of restricted type. (an intrinsic characterization of algebraic varieties). \textit{Ann. of Maths.}, \textbf{60}, 1954, pp. 28-48.
++[11] K. \textsc{Kodaira}. On Kähler varieties of restricted type (an intrinsic characterization of algebraic varieties). \textit{Ann. of Maths.}, \textbf{60}, 1954, pp. 28-48.
+ 
+ [12] K. \textsc{Kodaira} and D. C. \textsc{Spencer}. Divisor class groups on algebraic varieties. \textit{Proc. Nat. Acad. Sci. U. S. A.}, \textbf{39}, 1953, pp. 872-877.
+ 
+-[13] M. \textsc{Rosenlicht}. Some basic theorems on algebraic groups. \textit{Amer J. of Maths.}, \textbf{78}, 1956, pp. 401-443.
++[13] M. \textsc{Rosenlicht}. Some basic theorems on algebraic groups. \textit{Amer. J. of Maths.}, \textbf{78}, 1956, pp. 401-443.
+ 
+ [14] W. \textsc{Rückert}. Zum Eliminationsproblem der Potenzreihenideale. \textit{Math. Ann.}, \textbf{107}, 1933, pp. 259-281.
+ 

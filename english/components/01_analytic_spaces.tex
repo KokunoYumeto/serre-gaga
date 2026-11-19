@@ -15,7 +15,7 @@ The image of $\mathcal{H}_x$ under $\varepsilon_x$ is a subring $\mathcal{H}_{x,
 Since $\mathrm{U}$ now has both a topology and a sheaf of functions, we can define the notion of a \emph{holomorphic map} (cf. \GAGACite{3}, Expos\'e VI, and \GAGACite{18}, no.~32):
 
 Let $\mathrm{U}$ and $\mathrm{V}$ be analytic subsets of $\mathbf{C}^r$ and $\mathbf{C}^s$, respectively. A map $\varphi:\mathrm{U}\to\mathrm{V}$ is called holomorphic if it is continuous and if $f\in\mathcal{H}_{\varphi(x),\,\mathrm{V}}$ implies $f\circ\varphi\in\mathcal{H}_{x,\,\mathrm{U}}$.
-
+%
 Equivalently, the $s$ coordinates of $\varphi(x)$, $x\in\mathrm{U}$, are holomorphic functions of $x$, that is, sections of $\mathcal{H}_{\mathrm{U}}$.
 
 The composite of two holomorphic maps is holomorphic. A bijection $\varphi:\mathrm{U}\to\mathrm{V}$ is called an \emph{analytic isomorphism} (or simply an isomorphism) if $\varphi$ and $\varphi^{-1}$ are holomorphic. Equivalently, $\varphi$ is a homeomorphism of $\mathrm{U}$ onto $\mathrm{V}$ that carries the sheaf $\mathcal{H}_{\mathrm{U}}$ to the sheaf $\mathcal{H}_{\mathrm{V}}$.
@@ -32,9 +32,9 @@ Unlike the algebraic case, however, the topology of $\mathrm{U}\times\mathrm{U}'
 
 \GAGATarget{gaga:def:1}\textsc{Definition 1}. --- \emph{An analytic space is a set $\mathrm{X}$ endowed with a topology and with a subsheaf $\mathcal{H}_{\mathrm{X}}$ of the sheaf $\mathcal{C}(\mathrm{X})$, subject to the following axioms:}
 
-$(\mathrm{H}_{\mathrm{I}})$. \emph{There exists an open cover $\{\mathrm{V}_i\}$ of $\mathrm{X}$ such that every $\mathrm{V}_i$, endowed with the topology and sheaf induced by those of $\mathrm{X}$, is isomorphic to an analytic subset $\mathrm{U}_i$ of an affine space, endowed with the topology and sheaf defined in \GAGAInternalRef{gaga:no:1}{no.~1}.}
+$(\mathrm{H}_{\mathrm{I}})$. \emph{There exists an open covering $\{\mathrm{V}_i\}$ of $\mathrm{X}$ such that every $\mathrm{V}_i$, endowed with the topology and sheaf induced by those of $\mathrm{X}$, is isomorphic to an analytic subset $\mathrm{U}_i$ of an affine space, endowed with the topology and sheaf defined in \GAGAInternalRef{gaga:no:1}{no.~1}.}
 
-$(\mathrm{H}_{\mathrm{II}})$. \emph{The topology of $\mathrm{X}$ is Hausdorff.}
+$(\mathrm{H}_{\mathrm{II}})$. \emph{The topology of $\mathrm{X}$ is separated.}
 
 The definitions in \GAGAInternalRef{gaga:no:1}{no.~1} are local in nature and therefore carry over to analytic spaces. Thus, if $\mathrm{X}$ is an analytic space, the sheaf $\mathcal{H}_{\mathrm{X}}$ is called the sheaf of germs of holomorphic functions on $\mathrm{X}$. If $\mathrm{X}$ and $\mathrm{Y}$ are analytic spaces, a map $\varphi:\mathrm{X}\to\mathrm{Y}$ is called holomorphic if it is continuous and if $f\in\mathcal{H}_{\varphi(x),\,\mathrm{Y}}$ implies $f\circ\varphi\in\mathcal{H}_{x,\,\mathrm{X}}$; these maps form a family of \emph{morphisms} (in the sense of N. \textsc{Bourbaki}) for the structure of analytic space.
 
@@ -46,15 +46,15 @@ We leave it to the reader to carry over to analytic spaces the other results of 
 
 The definition of analytic sheaves given in \GAGACite{2}, Expos\'e XV extends immediately to an analytic space $\mathrm{X}$: an analytic sheaf $\mathcal{F}$ is simply a sheaf of modules over the sheaf of rings $\mathcal{H}_{\mathrm{X}}$, in other words, a sheaf of $\mathcal{H}_{\mathrm{X}}$-modules (cf. \GAGACite{18}, no.~6).
 
-Let $\mathrm{Y}$ be a closed analytic subset of $\mathrm{X}$. For every $x\in\mathrm{X}$, let $\mathcal{J}_x(\mathrm{Y})$ be the set of $f\in\mathcal{H}_{x,\,\mathrm{X}}$ whose restriction to $\mathrm{Y}$ vanishes in a neighbourhood of $x$. The $\mathcal{J}_x(\mathrm{Y})$ form a sheaf of ideals $\mathcal{J}(\mathrm{Y})$ of $\mathcal{H}_{\mathrm{X}}$; hence $\mathcal{J}(\mathrm{Y})$ is an analytic sheaf. The quotient sheaf $\mathcal{H}_{\mathrm{X}}/\mathcal{J}(\mathrm{Y})$ vanishes outside $\mathrm{Y}$, and its restriction to $\mathrm{Y}$ is precisely $\mathcal{H}_{\mathrm{Y}}$ by the definition of the induced structure. We may therefore identify it with $\mathcal{H}_{\mathrm{Y}}$; cf. \GAGACite{18}, no.~5.
+Let $\mathrm{Y}$ be a closed analytic subset of $\mathrm{X}$. For every $x\in\mathrm{X}$, let $\mathcal{A}_x(\mathrm{Y})$ be the set of $f\in\mathcal{H}_{x,\,\mathrm{X}}$ whose restriction to $\mathrm{Y}$ vanishes in a neighbourhood of $x$. The $\mathcal{A}_x(\mathrm{Y})$ form a sheaf of ideals $\mathcal{A}(\mathrm{Y})$ of $\mathcal{H}_{\mathrm{X}}$; hence $\mathcal{A}(\mathrm{Y})$ is an analytic sheaf. The quotient sheaf $\mathcal{H}_{\mathrm{X}}/\mathcal{A}(\mathrm{Y})$ vanishes outside $\mathrm{Y}$, and its restriction to $\mathrm{Y}$ is precisely $\mathcal{H}_{\mathrm{Y}}$ by the definition of the induced structure. We may therefore identify it with $\mathcal{H}_{\mathrm{Y}}$; cf. \GAGACite{18}, no.~5.
 
 \GAGATarget{gaga:prop:1}\textsc{Proposition 1}. --- a) \emph{The sheaf $\mathcal{H}_{\mathrm{X}}$ is a coherent sheaf of rings} (\GAGACite{18}, no.~15).
 
-b) \emph{If $\mathrm{Y}$ is a closed analytic subspace of $\mathrm{X}$, then $\mathcal{J}(\mathrm{Y})$ is a coherent analytic sheaf (that is, a coherent sheaf of $\mathcal{H}_{\mathrm{X}}$-modules in the sense of \GAGACite{18}, no.~12).}
+b) \emph{If $\mathrm{Y}$ is a closed analytic subspace of $\mathrm{X}$, then $\mathcal{A}(\mathrm{Y})$ is a coherent analytic sheaf (that is, a coherent sheaf of $\mathcal{H}_{\mathrm{X}}$-modules in the sense of \GAGACite{18}, no.~12).}
 
-When $\mathrm{X}$ is an open subset of $\mathbf{C}^n$, these results are due to K. \textsc{Oka} and H. \textsc{Cartan}; cf. \GAGACite{1}, Theorems~1 and~2, and \GAGACite{2}, Expos\'es XV--XVI. The general case reduces immediately to this one. Since the question is local, we may suppose that $\mathrm{X}$ is a closed analytic subset of an open set $\mathrm{U}\subset\mathbf{C}^n$. Then $\mathcal{H}_{\mathrm{X}}=\mathcal{H}_{\mathrm{U}}/\mathcal{J}(\mathrm{X})$, and, by what precedes, $\mathcal{H}_{\mathrm{U}}$ is a coherent sheaf of rings and $\mathcal{J}(\mathrm{X})$ is a coherent sheaf of ideals of $\mathcal{H}_{\mathrm{U}}$. It follows that $\mathcal{H}_{\mathrm{X}}$ is coherent; cf. \GAGACite{18}, no.~16. Assertion b) is proved in the same way.
+When $\mathrm{X}$ is an open subset of $\mathbf{C}^n$, these results are due to K. \textsc{Oka} and H. \textsc{Cartan}; cf. \GAGACite{1}, Theorems~1 and~2, and \GAGACite{2}, Expos\'es XV--XVI. The general case reduces immediately to this one. Since the question is local, we may suppose that $\mathrm{X}$ is a closed analytic subset of an open set $\mathrm{U}\subset\mathbf{C}^n$. Then $\mathcal{H}_{\mathrm{X}}=\mathcal{H}_{\mathrm{U}}/\mathcal{A}(\mathrm{X})$, and, by what precedes, $\mathcal{H}_{\mathrm{U}}$ is a coherent sheaf of rings and $\mathcal{A}(\mathrm{X})$ is a coherent sheaf of ideals of $\mathcal{H}_{\mathrm{U}}$. It follows that $\mathcal{H}_{\mathrm{X}}$ is coherent; cf. \GAGACite{18}, no.~16. Assertion b) is proved in the same way.
 
-Other examples of coherent analytic sheaves are the sheaves of germs of sections of fibre spaces with vector-space fibre (cf. \GAGAInternalRef{gaga:no:20}{no.~20}) and the sheaves of germs of automorphic functions (\GAGACite{3}, Expos\'e XX).
+Other examples of coherent analytic sheaves are the sheaves of germs of sections of bundles with vector-space fiber (cf. \GAGAInternalRef{gaga:no:20}{no.~20}) and the sheaves of germs of automorphic functions (\GAGACite{3}, Expos\'e XX).
 
 \GAGASubsection{4. A neighbourhood of a point in an analytic space}{gaga:no:4}
 

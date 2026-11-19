@@ -1,0 +1,4 @@
+layer	engine	passes_completed	exit_status	errors	warnings	overfull_count	over_2pt	over_10pt	maximum_overfull_pt	pdf_created
+french-diplomatic	pdflatex	3	0	0	0	0	0	0	0	yes
+french-corrected	pdflatex	3	0	0	0	0	0	0	0	yes
+english	xelatex	4	0	0	1	0	0	0	0	yes

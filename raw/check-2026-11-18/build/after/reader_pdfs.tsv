@@ -1,0 +1,3 @@
+layer	relative_pdf	bytes	sha256	pdf_pages	font_count	all_fonts_embedded
+french-diplomatic	pdf/GAGA_french_diplomatic.pdf	421792	51a2d7f611ad4d77c0f2ef05c20c17401d285eb874fcc38b864e21d2fe59b272	24	25	yes
+french-corrected	pdf/GAGA_french_corrected.pdf	421802	96c47e601e442b02b5d5fa5bcca50d9a792b18663376d4da49b6b952f1b5d7a8	24	25	yes

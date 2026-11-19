@@ -1,0 +1,7 @@
+layer	pass	engine	exit_status	errors	warnings	overfull_count	over_2pt	over_10pt	maximum_overfull_pt	pdf_created	pdf_pages
+french-diplomatic	1	pdflatex	0	0	0	0	0	0	0	yes	24
+french-diplomatic	2	pdflatex	0	0	0	0	0	0	0	yes	24
+french-diplomatic	3	pdflatex	0	0	0	0	0	0	0	yes	24
+french-corrected	1	pdflatex	0	0	0	0	0	0	0	yes	24
+french-corrected	2	pdflatex	0	0	0	0	0	0	0	yes	24
+french-corrected	3	pdflatex	0	0	0	0	0	0	0	yes	24

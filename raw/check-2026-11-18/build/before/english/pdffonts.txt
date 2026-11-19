@@ -1,0 +1,30 @@
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+EJXSXK+LMRoman12-Bold                Type 1C           Custom           yes yes yes      5  0
+PDZFSX+LMRoman10-Regular             Type 1C           Custom           yes yes yes      6  0
+UUFEJS+LMRomanCaps10-Regular         Type 1C           Custom           yes yes yes      7  0
+NIMEOH+LMRoman10-Bold                Type 1C           Custom           yes yes yes      8  0
+CCKVHE+LMMathSymbols10-Regular       Type 1C           Custom           yes yes no      30  0
+ZCWGUL+LMRoman10-Regular             Type 1C           Custom           yes yes yes     31  0
+YZOYNQ+LMMathItalic10-Regular        Type 1C           Custom           yes yes yes     32  0
+JRPTNE+LMRoman10-Italic              Type 1C           Custom           yes yes yes     45  0
+CGDVUI+LMMathItalic8-Regular         Type 1C           Custom           yes yes yes     53  0
+QAPYVK+LMRoman8-Regular              Type 1C           Custom           yes yes yes     60  0
+IDXNHD+MSAM10                        Type 1C           Builtin          yes yes yes     63  0
+CMUTZW+LMRoman10-Bold                Type 1C           Custom           yes yes yes     64  0
+PBANRR+LMRoman8-Regular              Type 1C           Custom           yes yes yes     65  0
+IKGIUF+LMRoman6-Regular              Type 1C           Custom           yes yes yes     67  0
+XVHSDL+LMRoman9-Regular              Type 1C           Custom           yes yes yes     68  0
+TQGVMQ+LMMathSymbols8-Regular        Type 1C           Custom           yes yes no      75  0
+CIGMSM+LMMathSymbols6-Regular        Type 1C           Custom           yes yes no      76  0
+ETKKPF+EUFM10                        Type 1C           Builtin          yes yes yes     95  0
+BHLNUQ+LMMathExtension10-Regular     Type 1C           Custom           yes yes no     100  0
+UCFNXC+LMMathItalic6-Regular         Type 1C           Custom           yes yes yes    101  0
+QRXVCO+LMRoman6-Regular              Type 1C           Custom           yes yes yes    203  0
+AGZNQX+LMRoman9-Regular              Type 1C           Custom           yes yes yes    223  0
+ZNKAYZ+LMMathItalic9-Regular         Type 1C           Custom           yes yes yes    224  0
+SITEER+LMMathSymbols9-Regular        Type 1C           Custom           yes yes no     225  0
+IISWBT+LMRoman9-Italic               Type 1C           Custom           yes yes yes    226  0
+UELNYM+LMRoman5-Regular              Type 1C           Custom           yes yes yes    237  0
+RZJCWW+LMRoman12-Regular             Type 1C           Custom           yes yes yes    260  0
+LIWECZ+LMMathItalic12-Regular        Type 1C           Custom           yes yes yes    261  0

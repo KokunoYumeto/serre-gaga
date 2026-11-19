@@ -1,0 +1,66 @@
+source_file	printed_page	source_line	lead_kind	lexical_occurrences	note_ids	coverage_status	coverage_focus
+sources/french-corrected/gaga_body.tex	1	13	lexical_marker	1	N058	introductory_nonproof	Introductory description of Kähler methods; related background only
+sources/french-corrected/gaga_body.tex	1	15	lexical_marker	1	N021	addressed	Holomorphic and regular differential forms
+sources/french-corrected/gaga_body.tex	2	21	lexical_marker	1	N024;N029;N031;N032	introductory_nonproof	Introduction roadmap; related notes only
+sources/french-corrected/gaga_body.tex	5	81	lexical_marker	1	N024	addressed	Transpose elementary analytic-space constructions from FAC
+sources/french-corrected/gaga_body.tex	6	97	lexical_marker	1	N025	addressed	Oka–Cartan reduction to closed analytic subsets
+sources/french-corrected/gaga_body.tex	6	106	lexical_marker	4	N026;N027	addressed	Germ reconstruction and regular local-ring criterion
+sources/french-corrected/gaga_body.tex	7	114	lexical_marker	1	N028	addressed	Finite analytic projection and dimension comparison
+sources/french-corrected/gaga_body.tex	8	137	lexical_marker	1	N029	addressed	Regular maps and their inverses are holomorphic
+sources/french-corrected/gaga_body.tex	8	150	lexical_marker	1	N029	addressed	Unique glued analytification and separatedness
+sources/french-corrected/gaga_body.tex	9	157	lexical_marker	1	N030	addressed	Intrinsic analytification definition
+sources/french-corrected/gaga_body.tex	9	161	lexical_marker	1	N029;N030	addressed	Product, subvariety and map compatibility
+sources/french-corrected/gaga_body.tex	10	178	lexical_marker	1	N031	addressed	Algebraic vanishing ideal maps into analytic vanishing ideal
+sources/french-corrected/gaga_body.tex	10	182	lexical_marker	2	N031	addressed	Affine completions and analytic vanishing-ideal germ
+sources/french-corrected/gaga_body.tex	10	194	lexical_marker	1	N031;N082	addressed	Passage to quotient local rings and completions
+sources/french-corrected/gaga_body.tex	11	202	lexical_marker	1	N032;N081	addressed	Common completion implies a flat pair
+sources/french-corrected/gaga_body.tex	11	206	lexical_marker	1	N032	addressed	Dimension is invariant under Noetherian local completion
+sources/french-corrected/gaga_body.tex	11	219	lexical_marker	2	N033	addressed	Density and injectivity equivalence; curve-route requirement
+sources/french-corrected/gaga_body.tex	12	228	lexical_marker	1	N034	addressed	Chow-lemma input to compactness and completeness
+sources/french-corrected/gaga_body.tex	12	236	lexical_marker	1	N035	addressed	Dense algebraic image contains a dense open subset
+sources/french-corrected/gaga_body.tex	12	240	lexical_marker	1	N035	addressed	Comparison of analytic and Zariski image closures
+sources/french-corrected/gaga_body.tex	13	242	lexical_marker	1	N035	addressed	Reverse inclusion for image closures
+sources/french-corrected/gaga_body.tex	13	247	lexical_marker	1	N029;N036	addressed	Regular-to-holomorphic implication and converse criterion
+sources/french-corrected/gaga_body.tex	14	269	lexical_marker	2	N038	addressed	Minimal primes, regular elements and total fractions
+sources/french-corrected/gaga_body.tex	14	273	lexical_marker	3	N037	addressed	Generic fiber cardinality and function-field degree
+sources/french-corrected/gaga_body.tex	15	283	lexical_marker	2	N038	addressed	Prime correspondence under localization and product of fields
+sources/french-corrected/gaga_body.tex	16	306	lexical_marker	1	N039	addressed	Inverse-image sheaf topology
+sources/french-corrected/gaga_body.tex	17	342	lexical_marker	1	N039;N040	addressed	Stalkwise exactness of the inverse-image sheaf
+sources/french-corrected/gaga_body.tex	17	366	lexical_marker	1	N041	addressed	Coherence of closed extension by zero
+sources/french-corrected/gaga_body.tex	18	390	lexical_marker	1	N041	addressed	Canonical tensor identifications glue as sheaf maps
+sources/french-corrected/gaga_body.tex	19	449	lexical_marker	1	N042	addressed	Naturality of the cohomology connecting homomorphism
+sources/french-corrected/gaga_body.tex	20	484	lexical_marker	1	N041;N041A	addressed	Closed extension by zero preserves cohomology
+sources/french-corrected/gaga_body.tex	20	489	lexical_marker	1	N041;N041A	addressed	Reduction of cohomology comparison to projective space
+sources/french-corrected/gaga_body.tex	20	500	lexical_marker	1	N045	addressed	Algebraic and analytic structure-sheaf cohomology of projective space
+sources/french-corrected/gaga_body.tex	21	508	lexical_marker	1	N046	addressed	Hyperplane induction for twists
+sources/french-corrected/gaga_body.tex	21	552	lexical_marker	1	N046	addressed	Five-lemma induction in both twist directions
+sources/french-corrected/gaga_body.tex	21	554	lexical_marker	1	N047	addressed	Cohomological-dimension bound and descending induction
+sources/french-corrected/gaga_body.tex	24	647	lexical_marker	1	N050	addressed	Annihilator descent and restriction to the closed subvariety
+sources/french-corrected/gaga_body.tex	24	652	lexical_marker	1	N052;N057	addressed	Dimension induction for algebraization
+sources/french-corrected/gaga_body.tex	26	720	lexical_marker	1	N052;N054;N055	addressed	Hyperplane vanishing for kernel and cokernel sheaves
+sources/french-corrected/gaga_body.tex	26	735	lexical_marker	1	N047;N052;N056	addressed	Algebraic generation input for the hyperplane quotient
+sources/french-corrected/gaga_body.tex	27	746	lexical_marker	1	N053;N057	addressed	Finite presentation from eventual analytic global generation
+sources/french-corrected/gaga_body.tex	28	805	lexical_marker	1	N059	addressed	Extension of number-field embeddings to automorphisms of C
+sources/french-corrected/gaga_body.tex	29	810	additional_prose	0	N059A;N086	addressed	Genus-one nonisomorphic conjugates and the separate topological question
+sources/french-corrected/gaga_body.tex	29	819	lexical_marker	1	N060	addressed	Coherent support and Chow’s theorem
+sources/french-corrected/gaga_body.tex	30	841	lexical_marker	1	N063;N066	addressed	Nonabelian H1 and principal-bundle classification
+sources/french-corrected/gaga_body.tex	31	861	lexical_marker	2	N064	addressed	Isomorphism bundle sections and algebraicity
+sources/french-corrected/gaga_body.tex	31	863	lexical_marker	1	N065;N065A	addressed	Finite-group and abelian-variety counterexamples
+sources/french-corrected/gaga_body.tex	32	880	additional_prose	0	N067A;N067B	addressed	Line bundles, divisors and Lefschetz’s divisor-class theorem
+sources/french-corrected/gaga_body.tex	32	884	lexical_marker	1	N069	addressed	Homogeneous quotient input and rational-section equivalence
+sources/french-corrected/gaga_body.tex	33	891	lexical_marker	1	N063;N070	addressed	Algebraic extension and reduction of structure group
+sources/french-corrected/gaga_body.tex	33	898	lexical_marker	1	N069;N070	addressed	Local principal-H bundle and pullback identification
+sources/french-corrected/gaga_body.tex	34	940	lexical_marker	1	N071	addressed	Determinant section for SL_n
+sources/french-corrected/gaga_body.tex	34	946	lexical_marker	1	N087;N095	addressed	Orthogonal failure of condition R and separate open question
+sources/french-corrected/gaga_body.tex	35	971	additional_prose	0	N073A	addressed	Ordinary-flatness criterion on cyclic modules and ideals
+sources/french-corrected/gaga_body.tex	35	973	additional_prose	0	N073B	addressed	Flatness and torsion freedom over a principal ideal domain
+sources/french-corrected/gaga_body.tex	35	975	additional_prose	0	N073C	addressed	Flatness of localization
+sources/french-corrected/gaga_body.tex	36	1056	lexical_marker	2	N075	addressed	Tor criterion for flat pairs
+sources/french-corrected/gaga_body.tex	37	1075	lexical_marker	1	N076	addressed	Kernel detection in flat-pair descent
+sources/french-corrected/gaga_body.tex	37	1079	lexical_marker	1	N076;N076A	addressed	Valid composition direction and failed converse
+sources/french-corrected/gaga_body.tex	37	1084	additional_prose	0	N077A;N080	addressed	Scope of the Zariski-ring footnote and adic hypotheses
+sources/french-corrected/gaga_body.tex	38	1113	lexical_marker	1	N078	addressed	Artin–Rees input to induced adic topology
+sources/french-corrected/gaga_body.tex	38	1118	lexical_marker	1	N078	addressed	Separatedness and closed finite submodules
+sources/french-corrected/gaga_body.tex	39	1130	lexical_marker	1	N079	addressed	Exactness after completion and compatible lifts
+sources/french-corrected/gaga_body.tex	39	1154	lexical_marker	1	N079	addressed	Finite presentation identifies completion with tensor product
+sources/french-corrected/gaga_body.tex	39	1163	lexical_marker	1	N078;N079;N080	addressed	Injectivity of finite-module completion and flatness

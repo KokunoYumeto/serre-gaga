@@ -1,0 +1,11 @@
+layer	pass	exit_status	errors	warnings	missing_glyph_diagnostics	underfull_boxes	overfull_boxes	over_2pt	over_10pt	maximum_overfull_pt	pdf_pages	warning_categories
+french-diplomatic	1	0	0	0	0	2	0	0	0	0	24	
+french-diplomatic	2	0	0	0	0	2	0	0	0	0	24	
+french-diplomatic	3	0	0	0	0	2	0	0	0	0	24	
+french-corrected	1	0	0	0	0	2	0	0	0	0	24	
+french-corrected	2	0	0	0	0	2	0	0	0	0	24	
+french-corrected	3	0	0	0	0	2	0	0	0	0	24	
+english	1	0	0	250	0	0	0	0	0	0	25	cross-reference labels rerun=1; hyperref entry rerun=1; inputenc ignored by UTF-8 engine=1; outline-file rerun=1; undefined hyper reference=245; undefined-reference summary=1
+english	2	0	0	2	0	0	0	0	0	0	26	cross-reference labels rerun=1; inputenc ignored by UTF-8 engine=1
+english	3	0	0	1	0	0	0	0	0	0	26	inputenc ignored by UTF-8 engine=1
+english	4	0	0	1	0	0	0	0	0	0	26	inputenc ignored by UTF-8 engine=1

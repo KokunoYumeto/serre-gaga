@@ -1,0 +1,293 @@
+layer	pass	log_line	category	complete_diagnostic_block
+french-diplomatic	1	667	underfull box	"Underfull \hbox (badness 1881) in paragraph at lines 724--726
+\T1/lmr/m/n/10.95 Ces di-men-sions sont \T1/lmr/m/it/10.95 fi-nies\T1/lmr/m/n/10.95 , d'apr^^e8s [5] (voir aussi [3], exp. XVII). Il en r^^e9-sulte que
+ []"
+french-diplomatic	1	678	underfull box	"Underfull \hbox (badness 1715) in paragraph at lines 863--864
+[]\T1/lmr/m/n/10.95 Supposons main-te-nant que $\OT1/lmr/m/n/10.95 X$ \T1/lmr/m/n/10.95 soit une \T1/lmr/m/it/10.95 va-ri^^e9t^^e9 pro-jec-tive\T1/lmr/m/n/10.95 . On peut se de-man-der si
+ []"
+french-diplomatic	2	666	underfull box	"Underfull \hbox (badness 1881) in paragraph at lines 724--726
+\T1/lmr/m/n/10.95 Ces di-men-sions sont \T1/lmr/m/it/10.95 fi-nies\T1/lmr/m/n/10.95 , d'apr^^e8s [5] (voir aussi [3], exp. XVII). Il en r^^e9-sulte que
+ []"
+french-diplomatic	2	677	underfull box	"Underfull \hbox (badness 1715) in paragraph at lines 863--864
+[]\T1/lmr/m/n/10.95 Supposons main-te-nant que $\OT1/lmr/m/n/10.95 X$ \T1/lmr/m/n/10.95 soit une \T1/lmr/m/it/10.95 va-ri^^e9t^^e9 pro-jec-tive\T1/lmr/m/n/10.95 . On peut se de-man-der si
+ []"
+french-diplomatic	3	666	underfull box	"Underfull \hbox (badness 1881) in paragraph at lines 724--726
+\T1/lmr/m/n/10.95 Ces di-men-sions sont \T1/lmr/m/it/10.95 fi-nies\T1/lmr/m/n/10.95 , d'apr^^e8s [5] (voir aussi [3], exp. XVII). Il en r^^e9-sulte que
+ []"
+french-diplomatic	3	677	underfull box	"Underfull \hbox (badness 1715) in paragraph at lines 863--864
+[]\T1/lmr/m/n/10.95 Supposons main-te-nant que $\OT1/lmr/m/n/10.95 X$ \T1/lmr/m/n/10.95 soit une \T1/lmr/m/it/10.95 va-ri^^e9t^^e9 pro-jec-tive\T1/lmr/m/n/10.95 . On peut se de-man-der si
+ []"
+french-corrected	1	667	underfull box	"Underfull \hbox (badness 1881) in paragraph at lines 724--726
+\T1/lmr/m/n/10.95 Ces di-men-sions sont \T1/lmr/m/it/10.95 fi-nies\T1/lmr/m/n/10.95 , d'apr^^e8s [5] (voir aussi [3], exp. XVII). Il en r^^e9-sulte que
+ []"
+french-corrected	1	678	underfull box	"Underfull \hbox (badness 1715) in paragraph at lines 863--864
+[]\T1/lmr/m/n/10.95 Supposons main-te-nant que $\OT1/lmr/m/n/10.95 X$ \T1/lmr/m/n/10.95 soit une \T1/lmr/m/it/10.95 va-ri^^e9t^^e9 pro-jec-tive\T1/lmr/m/n/10.95 . On peut se de-man-der si
+ []"
+french-corrected	2	666	underfull box	"Underfull \hbox (badness 1881) in paragraph at lines 724--726
+\T1/lmr/m/n/10.95 Ces di-men-sions sont \T1/lmr/m/it/10.95 fi-nies\T1/lmr/m/n/10.95 , d'apr^^e8s [5] (voir aussi [3], exp. XVII). Il en r^^e9-sulte que
+ []"
+french-corrected	2	677	underfull box	"Underfull \hbox (badness 1715) in paragraph at lines 863--864
+[]\T1/lmr/m/n/10.95 Supposons main-te-nant que $\OT1/lmr/m/n/10.95 X$ \T1/lmr/m/n/10.95 soit une \T1/lmr/m/it/10.95 va-ri^^e9t^^e9 pro-jec-tive\T1/lmr/m/n/10.95 . On peut se de-man-der si
+ []"
+french-corrected	3	666	underfull box	"Underfull \hbox (badness 1881) in paragraph at lines 724--726
+\T1/lmr/m/n/10.95 Ces di-men-sions sont \T1/lmr/m/it/10.95 fi-nies\T1/lmr/m/n/10.95 , d'apr^^e8s [5] (voir aussi [3], exp. XVII). Il en r^^e9-sulte que
+ []"
+french-corrected	3	677	underfull box	"Underfull \hbox (badness 1715) in paragraph at lines 863--864
+[]\T1/lmr/m/n/10.95 Supposons main-te-nant que $\OT1/lmr/m/n/10.95 X$ \T1/lmr/m/n/10.95 soit une \T1/lmr/m/it/10.95 va-ri^^e9t^^e9 pro-jec-tive\T1/lmr/m/n/10.95 . On peut se de-man-der si
+ []"
+english	1	39	inputenc ignored by UTF-8 engine	Package inputenc Warning: inputenc package ignored with utf8 based engines.
+english	1	647	hyperref entry rerun	Package hyperref Warning: Rerun to get <local> entry.
+english	1	689	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:12' on page 1 undefined on input line 19.
+english	1	692	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:section:1' on page 1 undefined on input line 21.
+english	1	695	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:3' on page 1 undefined on input line 21.
+english	1	698	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:section:2' on page 1 undefined on input line 21.
+english	1	701	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:appendix' on page 1 undefined on input line 21.
+english	1	704	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:def:4' on page 1 undefined on input line 21.
+english	1	707	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:section:3' on page 1 undefined on input line 23.
+english	1	710	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 1 undefined on input line 23.
+english	1	713	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:3' on page 1 undefined on input line 23.
+english	1	716	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:section:4' on page 1 undefined on input line 25.
+english	1	723	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:3' on page 1 undefined on input line 25.
+english	1	726	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:appendix' on page 1 undefined on input line 27.
+english	1	734	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 2 undefined on input line 7.
+english	1	737	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:3' on page 2 undefined on input line 15.
+english	1	740	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 2 undefined on input line 15.
+english	1	743	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 2 undefined on input line 23.
+english	1	746	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:1' on page 2 undefined on input line 35.
+english	1	749	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:1' on page 2 undefined on input line 39.
+english	1	752	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 2 undefined on input line 41.
+english	1	758	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 3 undefined on input line 43.
+english	1	761	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:2' on page 3 undefined on input line 47.
+english	1	764	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 3 undefined on input line 47.
+english	1	767	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 3 undefined on input line 49.
+english	1	770	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 3 undefined on input line 51.
+english	1	773	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 3 undefined on input line 53.
+english	1	776	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:1' on page 3 undefined on input line 55.
+english	1	779	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:2' on page 3 undefined on input line 55.
+english	1	782	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 3 undefined on input line 55.
+english	1	785	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:20' on page 3 undefined on input line 57.
+english	1	788	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:3' on page 3 undefined on input line 57.
+english	1	795	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:3' on page 3 undefined on input line 61.
+english	1	798	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:3' on page 3 undefined on input line 63.
+english	1	801	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:16' on page 3 undefined on input line 63.
+english	1	804	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:15' on page 3 undefined on input line 65.
+english	1	807	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:14' on page 3 undefined on input line 71.
+english	1	810	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:3' on page 3 undefined on input line 71.
+english	1	813	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:16' on page 3 undefined on input line 71.
+english	1	819	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 4 undefined on input line 19.
+english	1	822	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:lemma:1:item:b' on page 4 undefined on input line 25.
+english	1	825	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:1' on page 4 undefined on input line 27.
+english	1	828	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:lemma:1:item:d' on page 4 undefined on input line 31.
+english	1	831	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:lemma:1:item:a' on page 4 undefined on input line 31.
+english	1	834	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 4 undefined on input line 31.
+english	1	840	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:3' on page 5 undefined on input line 35.
+english	1	843	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:appendix' on page 5 undefined on input line 47.
+english	1	846	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:24' on page 5 undefined on input line 47.
+english	1	849	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 5 undefined on input line 53.
+english	1	852	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:3' on page 5 undefined on input line 53.
+english	1	855	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:3' on page 5 undefined on input line 57.
+english	1	858	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:4' on page 5 undefined on input line 57.
+english	1	861	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:3' on page 5 undefined on input line 57.
+english	1	864	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:4' on page 5 undefined on input line 57.
+english	1	867	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:1' on page 5 undefined on input line 57.
+english	1	870	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:3' on page 5 undefined on input line 57.
+english	1	873	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:14' on page 5 undefined on input line 57.
+english	1	876	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:2' on page 5 undefined on input line 57.
+english	1	879	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:3' on page 5 undefined on input line 57.
+english	1	882	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:16' on page 5 undefined on input line 65.
+english	1	885	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:17' on page 5 undefined on input line 65.
+english	1	888	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:15' on page 5 undefined on input line 65.
+english	1	891	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:appendix' on page 5 undefined on input line 65.
+english	1	894	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:27' on page 5 undefined on input line 65.
+english	1	897	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:4' on page 5 undefined on input line 65.
+english	1	903	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:3' on page 6 undefined on input line 75.
+english	1	906	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:29' on page 6 undefined on input line 75.
+english	1	909	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:appendix' on page 6 undefined on input line 75.
+english	1	912	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:4' on page 6 undefined on input line 75.
+english	1	915	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:3' on page 6 undefined on input line 77.
+english	1	918	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:appendix' on page 6 undefined on input line 79.
+english	1	921	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:def:4' on page 6 undefined on input line 79.
+english	1	924	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:3' on page 6 undefined on input line 81.
+english	1	927	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:28' on page 6 undefined on input line 81.
+english	1	930	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:appendix' on page 6 undefined on input line 81.
+english	1	933	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:16' on page 6 undefined on input line 85.
+english	1	936	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:4' on page 6 undefined on input line 87.
+english	1	939	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:6' on page 6 undefined on input line 95.
+english	1	942	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:3' on page 6 undefined on input line 95.
+english	1	945	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:5' on page 6 undefined on input line 97.
+english	1	948	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:3' on page 6 undefined on input line 97.
+english	1	951	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:5' on page 6 undefined on input line 99.
+english	1	954	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:7' on page 6 undefined on input line 103.
+english	1	957	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:19' on page 6 undefined on input line 103.
+english	1	960	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:5' on page 6 undefined on input line 105.
+english	1	963	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:4' on page 6 undefined on input line 111.
+english	1	966	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:17' on page 6 undefined on input line 111.
+english	1	972	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:lemma:2' on page 7 undefined on input line 115.
+english	1	975	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:5' on page 7 undefined on input line 115.
+english	1	978	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:19' on page 7 undefined on input line 119.
+english	1	981	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:7' on page 7 undefined on input line 127.
+english	1	984	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:3' on page 7 undefined on input line 137.
+english	1	987	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:lemma:3' on page 7 undefined on input line 139.
+english	1	990	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:17' on page 7 undefined on input line 143.
+english	1	996	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:cor:1' on page 8 undefined on input line 145.
+english	1	999	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:3' on page 8 undefined on input line 145.
+english	1	1002	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:appendix' on page 8 undefined on input line 145.
+english	1	1005	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:22' on page 8 undefined on input line 145.
+english	1	1008	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:15' on page 8 undefined on input line 151.
+english	1	1011	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:15' on page 8 undefined on input line 151.
+english	1	1015	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:5' on page 8 undefined on input line 5.
+english	1	1018	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:3' on page 8 undefined on input line 7.
+english	1	1021	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:6' on page 8 undefined on input line 7.
+english	1	1027	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:cor:1' on page 9 undefined on input line 49.
+english	1	1030	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:3' on page 9 undefined on input line 49.
+english	1	1033	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:1' on page 9 undefined on input line 63.
+english	1	1036	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:3' on page 9 undefined on input line 63.
+english	1	1039	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 9 undefined on input line 63.
+english	1	1042	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 9 undefined on input line 69.
+english	1	1048	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:4' on page 10 undefined on input line 90.
+english	1	1051	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:6' on page 10 undefined on input line 90.
+english	1	1054	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:11' on page 10 undefined on input line 98.
+english	1	1057	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:9' on page 10 undefined on input line 102.
+english	1	1060	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 10 undefined on input line 122.
+english	1	1063	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 10 undefined on input line 157.
+english	1	1069	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:11' on page 11 undefined on input line 171.
+english	1	1072	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:1' on page 11 undefined on input line 191.
+english	1	1075	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:19' on page 11 undefined on input line 191.
+english	1	1079	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 11 undefined on input line 3.
+english	1	1082	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:11' on page 11 undefined on input line 12.
+english	1	1085	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:1' on page 11 undefined on input line 24.
+english	1	1088	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 11 undefined on input line 26.
+english	1	1091	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:8' on page 11 undefined on input line 26.
+english	1	1094	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:16' on page 11 undefined on input line 26.
+english	1	1097	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:1' on page 11 undefined on input line 28.
+english	1	1100	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 11 undefined on input line 30.
+english	1	1103	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:16' on page 11 undefined on input line 30.
+english	1	1109	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 12 undefined on input line 39.
+english	1	1112	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:11' on page 12 undefined on input line 46.
+english	1	1115	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:1' on page 12 undefined on input line 74.
+english	1	1118	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:lemma:4' on page 12 undefined on input line 74.
+english	1	1121	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:1' on page 12 undefined on input line 76.
+english	1	1124	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 12 undefined on input line 76.
+english	1	1127	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:lemma:5' on page 12 undefined on input line 83.
+english	1	1130	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:1' on page 12 undefined on input line 83.
+english	1	1133	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 12 undefined on input line 107.
+english	1	1136	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:9' on page 12 undefined on input line 107.
+english	1	1139	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 12 undefined on input line 121.
+english	1	1145	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:21' on page 13 undefined on input line 152.
+english	1	1148	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:appendix' on page 13 undefined on input line 152.
+english	1	1151	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:2' on page 13 undefined on input line 154.
+english	1	1154	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:2' on page 13 undefined on input line 164.
+english	1	1157	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:1' on page 13 undefined on input line 164.
+english	1	1160	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 13 undefined on input line 164.
+english	1	1163	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:lemma:6' on page 13 undefined on input line 164.
+english	1	1166	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:2' on page 13 undefined on input line 168.
+english	1	1169	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:2' on page 13 undefined on input line 168.
+english	1	1172	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:10' on page 13 undefined on input line 175.
+english	1	1175	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:10' on page 13 undefined on input line 182.
+english	1	1178	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:3' on page 13 undefined on input line 184.
+english	1	1181	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:10' on page 13 undefined on input line 186.
+english	1	1184	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 13 undefined on input line 186.
+english	1	1187	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:11' on page 13 undefined on input line 186.
+english	1	1192	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 13 undefined on input line 194.
+english	1	1198	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:3' on page 14 undefined on input line 204.
+english	1	1201	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:1' on page 14 undefined on input line 206.
+english	1	1204	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:lemma:7' on page 14 undefined on input line 206.
+english	1	1207	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 14 undefined on input line 206.
+english	1	1210	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:3' on page 14 undefined on input line 210.
+english	1	1213	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 14 undefined on input line 214.
+english	1	1216	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:3' on page 14 undefined on input line 222.
+english	1	1219	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:lemma:5' on page 14 undefined on input line 229.
+english	1	1222	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:eq:1' on page 14 undefined on input line 246.
+english	1	1228	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:eq:2' on page 15 undefined on input line 254.
+english	1	1231	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:lemma:7' on page 15 undefined on input line 286.
+english	1	1234	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:eq:5' on page 15 undefined on input line 294.
+english	1	1237	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:eq:6' on page 15 undefined on input line 294.
+english	1	1240	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:5' on page 15 undefined on input line 305.
+english	1	1243	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:3' on page 15 undefined on input line 305.
+english	1	1246	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:eq:6' on page 15 undefined on input line 317.
+english	1	1249	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:eq:8' on page 15 undefined on input line 325.
+english	1	1252	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:eq:4' on page 15 undefined on input line 325.
+english	1	1255	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:12' on page 15 undefined on input line 325.
+english	1	1258	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:1' on page 15 undefined on input line 343.
+english	1	1261	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 15 undefined on input line 343.
+english	1	1267	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:appendix' on page 16 undefined on input line 361.
+english	1	1270	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:24' on page 16 undefined on input line 361.
+english	1	1273	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:24:cor' on page 16 undefined on input line 361.
+english	1	1276	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:lemma:8' on page 16 undefined on input line 361.
+english	1	1279	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:lemma:8' on page 16 undefined on input line 365.
+english	1	1282	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:2' on page 16 undefined on input line 381.
+english	1	1285	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:10' on page 16 undefined on input line 388.
+english	1	1288	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:3' on page 16 undefined on input line 395.
+english	1	1292	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:8' on page 16 undefined on input line 27.
+english	1	1298	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:1' on page 17 undefined on input line 39.
+english	1	1301	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:12' on page 17 undefined on input line 65.
+english	1	1304	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:6' on page 17 undefined on input line 83.
+english	1	1307	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:3' on page 17 undefined on input line 88.
+english	1	1310	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:3' on page 17 undefined on input line 91.
+english	1	1313	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:1' on page 17 undefined on input line 91.
+english	1	1316	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:3' on page 17 undefined on input line 93.
+english	1	1319	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:10:item:b' on page 17 undefined on input line 96.
+english	1	1322	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 17 undefined on input line 97.
+english	1	1325	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:6' on page 17 undefined on input line 107.
+english	1	1328	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:7' on page 17 undefined on input line 115.
+english	1	1331	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:14' on page 17 undefined on input line 123.
+english	1	1334	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:8' on page 17 undefined on input line 125.
+english	1	1340	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:9' on page 18 undefined on input line 138.
+english	1	1343	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:10' on page 18 undefined on input line 138.
+english	1	1346	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:20' on page 18 undefined on input line 141.
+english	1	1349	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:no:11' on page 18 undefined on input line 156.
+english	1	1352	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:16' on page 18 undefined on input line 162.
+english	1	1355	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:15' on page 18 undefined on input line 181.
+english	1	1358	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:16' on page 18 undefined on input line 192.
+english	1	1361	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:1' on page 18 undefined on input line 203.
+english	1	1364	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 18 undefined on input line 213.
+english	1	1370	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:thm:3' on page 19 undefined on input line 221.
+english	1	1373	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:appendix' on page 19 undefined on input line 229.
+english	1	1376	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:30' on page 19 undefined on input line 230.
+english	1	1379	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:20' on page 19 undefined on input line 239.
+english	1	1382	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:18' on page 19 undefined on input line 240.
+english	1	1385	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:12' on page 19 undefined on input line 243.
+english	1	1388	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:18' on page 19 undefined on input line 247.
+english	1	1391	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:11' on page 19 undefined on input line 249.
+english	1	1394	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:13' on page 19 undefined on input line 253.
+english	1	1397	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:15' on page 19 undefined on input line 286.
+english	1	1403	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:18' on page 20 undefined on input line 313.
+english	1	1406	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:19' on page 20 undefined on input line 314.
+english	1	1409	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:13' on page 20 undefined on input line 335.
+english	1	1415	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:18' on page 21 undefined on input line 39.
+english	1	1421	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:22:item:aa' on page 22 undefined on input line 146.
+english	1	1424	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:22' on page 22 undefined on input line 174.
+english	1	1427	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:22' on page 22 undefined on input line 185.
+english	1	1430	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:15' on page 22 undefined on input line 195.
+english	1	1433	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:15' on page 22 undefined on input line 201.
+english	1	1436	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:4' on page 22 undefined on input line 201.
+english	1	1442	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:15' on page 23 undefined on input line 222.
+english	1	1445	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:15' on page 23 undefined on input line 236.
+english	1	1448	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:3' on page 23 undefined on input line 236.
+english	1	1451	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:25:item:a' on page 23 undefined on input line 239.
+english	1	1454	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:15' on page 23 undefined on input line 240.
+english	1	1457	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:4' on page 23 undefined on input line 247.
+english	1	1460	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:25:item:a' on page 23 undefined on input line 251.
+english	1	1463	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:24' on page 23 undefined on input line 253.
+english	1	1466	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:25:item:b' on page 23 undefined on input line 254.
+english	1	1469	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:25' on page 23 undefined on input line 278.
+english	1	1472	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:bib:15' on page 23 undefined on input line 301.
+english	1	1478	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:26' on page 24 undefined on input line 318.
+english	1	1481	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:22:item:a' on page 24 undefined on input line 325.
+english	1	1484	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:22' on page 24 undefined on input line 326.
+english	1	1487	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:23' on page 24 undefined on input line 339.
+english	1	1490	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:28' on page 24 undefined on input line 346.
+english	1	1493	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:26' on page 24 undefined on input line 348.
+english	1	1496	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:28' on page 24 undefined on input line 358.
+english	1	1499	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:24' on page 24 undefined on input line 378.
+english	1	1502	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:28' on page 24 undefined on input line 382.
+english	1	1505	undefined hyper reference	LaTeX Warning: Hyper reference `gaga:prop:24' on page 24 undefined on input line 407.
+english	1	1518	undefined-reference summary	LaTeX Warning: There were undefined references.
+english	1	1521	cross-reference labels rerun	LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+english	1	1524	outline-file rerun	"Package rerunfilecheck Warning: File `GAGA_English_source_aligned.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'."
+english	2	39	inputenc ignored by UTF-8 engine	Package inputenc Warning: inputenc package ignored with utf8 based engines.
+english	2	758	cross-reference labels rerun	LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+english	3	39	inputenc ignored by UTF-8 engine	Package inputenc Warning: inputenc package ignored with utf8 based engines.
+english	4	39	inputenc ignored by UTF-8 engine	Package inputenc Warning: inputenc package ignored with utf8 based engines.

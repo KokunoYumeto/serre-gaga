@@ -1,0 +1,59 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./gaga.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(<local>
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(<local>) (<local>)) (<local>) (<local>) (<local>) (<local> (<local>) (<local><local>)) (<local>) (<local>) (<local>
+For additional information on amsmath, use the `?' option.
+(<local> (<local>)) (<local>) (<local>)) (<local> (<local>)) (<local>) (<local> (<local>) (<local>) (<local>)) (<local> (<local> (<local> (<local>)
+(<local>) (<local> (<local>))) (<local> (<local> (<local> (<local>) (<local>) (<local>))) (<local> (<local> (<local> (<local>)) (<local>)
+(<local> (<local>))) (<local>) (<local>)) (<local> (<local>) (<local>)) (<local> (<local> (<local>) (<local>) (<local>) (<local>)
+(<local>) (<local>) (<local>) (<local>) (<local>) (<local>) (<local>) (<local>) (<local>)) (<local>) (<local>)
+(<local>) (<local>) (<local>) (<local>) (<local>) (<local>) (<local>) (<local>) (<local>) (<local>) (<local>)
+(<local>) (<local>) (<local>) (<local>) (<local>))) (<local>) (<local>) (<local>) (<local>)) (<local> (<local> (<local>))
+(<local> (<local>)) (<local>)) (<local> (<local>) (<local>) (<local>))) (<local> (<local>) (<local>) (<local>)) (<local>
+(<local> (<local>))) (<local>) (<local><local>) (<local>) (<local>)
+No file gaga.aux.
+(<local>
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (<local> (<local>) (<local> (<local>)) (<local> (<local>) (<local>)) (<local>) (<local>))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(./gaga_body.tex (<local>) (<local>) (<local>) (<local>) (<local>) (<local>) (<local>)
+[1{<local><local>]
+[2] (<local>)
+[3]
+[4]
+[5]
+[6{<local>]
+[7]
+[8]
+[9]
+[10]
+[11]
+[12]
+[13]
+[14]
+Underfull \hbox (badness 1881) in paragraph at lines 724--726
+\T1/lmr/m/n/10.95 Ces di-men-sions sont \T1/lmr/m/it/10.95 fi-nies\T1/lmr/m/n/10.95 , d'apr^^e8s [5] (voir aussi [3], exp. XVII). Il en r^^e9-sulte que
+
+[15]
+[16]
+[17]
+Underfull \hbox (badness 1715) in paragraph at lines 863--864
+[]\T1/lmr/m/n/10.95 Supposons main-te-nant que $\OT1/lmr/m/n/10.95 X$ \T1/lmr/m/n/10.95 soit une \T1/lmr/m/it/10.95 va-ri^^e9t^^e9 pro-jec-tive\T1/lmr/m/n/10.95 . On peut se de-man-der si
+
+[18]
+[19]
+[20]
+[21]
+[22]
+[23])
+[24] (./gaga.aux) )
+(see the transcript file for additional information)<<local>><<local>><<local>><<local>><<local>><<local>><<local>><<local>><<local>><<local>><<local>><<local>><<local>><<local>><<local>><<local>><<local>><<local>><<local>
+fonts/type1/public/lm/lmsy9.pfb><<local>>
+Output written on gaga.pdf (24 pages, 421792 bytes).
+Transcript written on gaga.log.

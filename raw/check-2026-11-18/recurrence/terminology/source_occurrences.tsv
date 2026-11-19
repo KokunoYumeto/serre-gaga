@@ -1,0 +1,107 @@
+file	line	column_start_1based	column_end_1based_exclusive	byte_start_0based_in_line	byte_end_0based_exclusive	term_family	literal_search_term	exact_matched_text	full_exact_source_line
+sources/english/components/00_title_and_introduction.tex	19	467	474	466	473	fibre-space/fibre space/fiber space/bundle	bundles	bundles	"The principal aim of this paper is to extend this equivalence to \textit{coherent sheaves}. More precisely, we prove that coherent algebraic sheaves and coherent analytic sheaves correspond bijectively, and that the correspondence between these two categories of sheaves preserves cohomology groups (see \GAGAInternalRef{gaga:no:12}{no.~12} for the statements). We give various applications of these results, notably to the comparison between algebraic and analytic bundles.
+"
+sources/english/components/00_title_and_introduction.tex	25	354	361	353	360	fibre-space/fibre space/fiber space/bundle	bundles	bundles	"\GAGAInternalRef{gaga:section:4}{Section~4} is devoted to applications\footnote{We have left aside the applications to automorphic functions, for which we refer to \GAGACite{3}, Expos\'e XX.}: invariance of the \textsc{Betti} numbers under automorphisms of the field of complex numbers, \textsc{Chow}'s theorem, and comparison of algebraic and analytic bundles having a given algebraic group as structure group. Our results on the last question are, moreover, quite incomplete: among all semisimple groups we can treat only the unimodular linear group and the symplectic group.
+"
+sources/english/components/01_analytic_spaces.tex	35	57	65	56	64	covering/cover	covering	covering	"$(\mathrm{H}_{\mathrm{I}})$. \emph{There exists an open covering $\{\mathrm{V}_i\}$ of $\mathrm{X}$ such that every $\mathrm{V}_i$, endowed with the topology and sheaf induced by those of $\mathrm{X}$, is isomorphic to an analytic subset $\mathrm{U}_i$ of an affine space, endowed with the topology and sheaf defined in \GAGAInternalRef{gaga:no:1}{no.~1}.}
+"
+sources/english/components/01_analytic_spaces.tex	37	69	78	68	77	separated/Hausdorff	separated	separated	"$(\mathrm{H}_{\mathrm{II}})$. \emph{The topology of $\mathrm{X}$ is separated.}
+"
+sources/english/components/01_analytic_spaces.tex	57	85	92	84	91	fibre-space/fibre space/fiber space/bundle	bundles	bundles	"Other examples of coherent analytic sheaves are the sheaves of germs of sections of bundles with vector-space fiber (cf. \GAGAInternalRef{gaga:no:20}{no.~20}) and the sheaves of germs of automorphic functions (\GAGACite{3}, Expos\'e XX).
+"
+sources/english/components/01_analytic_spaces.tex	57	111	116	110	115	fibre/fiber/stalk	fiber	fiber	"Other examples of coherent analytic sheaves are the sheaves of germs of sections of bundles with vector-space fiber (cf. \GAGAInternalRef{gaga:no:20}{no.~20}) and the sheaves of germs of automorphic functions (\GAGACite{3}, Expos\'e XX).
+"
+sources/english/components/02_associated_analytic_space.tex	31	1149	1158	1148	1157	separated/Hausdorff	separated	separated	"Uniqueness is clear, since $\mathrm{X}$ can be covered by Z-open subsets $\mathrm{V}$ possessing charts. To prove existence, let $\varphi:\mathrm{V}\to\mathrm{U}$ be a chart, and transport the analytic structure of $\mathrm{U}$ to $\mathrm{V}$ by means of $\varphi^{-1}$. If $\varphi':\mathrm{V}'\to\mathrm{U}'$ is another chart, the analytic structures induced on $\mathrm{V}\cap\mathrm{V}'$ by $\mathrm{V}$ and by $\mathrm{V}'$ are the same, by \hyperref[gaga:lemma:1:item:d]{Lemma 1(d)}; moreover, $\mathrm{V}\cap\mathrm{V}'$ is open both in $\mathrm{V}$ and in $\mathrm{V}'$, by \hyperref[gaga:lemma:1:item:a]{Lemma 1(a)}. By gluing, we thus obtain on $\mathrm{X}$ a topology and a sheaf $\mathcal{H}_{\mathrm{X}}$ that visibly satisfy axiom $(\mathrm{H}_{\mathrm{I}})$. To verify $(\mathrm{H}_{\mathrm{II}})$, we use axiom $(\mathrm{VA}'_{\mathrm{II}})$ of \GAGACite{18}, no.~34. With the notation of that axiom, the graphs $\mathrm{T}_{ij}$ of the identification relations between two $\mathrm{U}_i$ and $\mathrm{U}_j$ are Z-closed in $\mathrm{U}_i\times\mathrm{U}_j$, hence \emph{a fortiori} closed; this says precisely that $\mathrm{X}$ is separated.
+"
+sources/english/components/02_associated_analytic_space.tex	139	335	349	334	348	quotient field/fraction field	fraction field	fraction field	"Let $\mathrm{X}_i$ be the irreducible components of $\mathrm{X}$ passing through $x$. Each $\mathrm{X}_i$ determines a prime ideal $\mathfrak{p}_i=\mathcal{J}_x(\mathrm{X}_i)$ of the ring $\mathrm{A}$, and the quotient local ring $\mathrm{A}_i=\mathrm{A}/\mathfrak{p}_i$ is precisely the local ring of $x$ on $\mathrm{X}_i$. Thus the fraction field $\mathrm{K}_i$ of $\mathrm{A}_i$ is precisely the field of rational functions on the irreducible variety $\mathrm{X}_i$. The ideals $\mathfrak{p}_i$ are clearly the minimal prime ideals of $\mathrm{A}$, and $0=\bigcap\mathfrak{p}_i$. The set $\mathrm{S}$ of elements of $\mathrm{A}$ that belong to none of the $\mathfrak{p}_i$ is multiplicatively closed (it is easily seen to be the set of regular elements of $\mathrm{A}$). The total ring of fractions $\mathrm{A}_\mathrm{S}$ is the direct product of the fields $\mathrm{K}_i$ (cf. \GAGAInternalRef{gaga:lemma:3}{Lemma 3} below).
+"
+sources/english/components/02_associated_analytic_space.tex	141	303	317	302	316	quotient field/fraction field	fraction field	fraction field	"Let $\mathrm{T}_i=p^{-1}(\mathrm{X}_i)$. Since $p$ is a Z-homeomorphism, the $\mathrm{T}_i$ are the irreducible components of $\mathrm{T}$ passing through $t$ and define prime ideals $\mathfrak{p}'_i$ of $\mathrm{A}'$. Put $\mathrm{A}'_i=\mathrm{A}'/\mathfrak{p}'_i$, and denote by $\mathrm{K}'_i$ the fraction field of $\mathrm{A}'_i$. The total ring of fractions $\mathrm{A}'_{\mathrm{S}'}$ is the direct product of the $\mathrm{K}'_i$. Notice that $\mathfrak{p}'_i\cap \mathrm{A}=\mathfrak{p}_i$, whence $\mathrm{A}_i\subset \mathrm{A}'_i$, $\mathrm{K}_i\subset \mathrm{K}'_i$, and $\mathrm{A}_\mathrm{S}\subset \mathrm{A}'_{\mathrm{S}'}$.
+"
+sources/english/components/02_associated_analytic_space.tex	149	228	242	227	241	quotient field/fraction field	fraction field	fraction field	"\GAGATarget{gaga:lemma:3}\textsc{Lemma 3}. --- \emph{Let $\mathrm{A}$ be a commutative ring in which the zero ideal is the intersection of finitely many distinct minimal prime ideals $\mathfrak{p}_i$. Let $\mathrm{K}_i$ be the fraction field of $\mathrm{A}/\mathfrak{p}_i$, and let $\mathrm{S}$ be the set of elements of $\mathrm{A}$ that belong to none of the $\mathfrak{p}_i$. Then the ring of fractions $\mathrm{A}_\mathrm{S}$ is isomorphic to the direct product of the $\mathrm{K}_i$.}
+"
+sources/english/components/03_sheaf_correspondence_nos09_12.tex	108	60	68	59	67	covering/cover	covering	covering	"Now let $\mathfrak{U}=\{\mathrm{U}_i\}$ be a finite Z-open covering of $\mathrm{X}$. The $\mathrm{U}_i^h$ form a finite open covering of $\mathrm{X}^h$, which we shall denote by $\mathfrak{U}^h$. For every system of indices $i_0,\ldots,i_q$, the preceding construction gives a canonical homomorphism
+"
+sources/english/components/03_sheaf_correspondence_nos09_12.tex	108	126	134	125	133	covering/cover	covering	covering	"Now let $\mathfrak{U}=\{\mathrm{U}_i\}$ be a finite Z-open covering of $\mathrm{X}$. The $\mathrm{U}_i^h$ form a finite open covering of $\mathrm{X}^h$, which we shall denote by $\mathfrak{U}^h$. For every system of indices $i_0,\ldots,i_q$, the preceding construction gives a canonical homomorphism
+"
+sources/english/components/03_sheaf_correspondence_nos09_12.tex	157	62	71	61	70	covering/cover	coverings	coverings	"is commutative. This may be seen, for example, by taking the coverings $\mathfrak{U}$ to be coverings by affine open sets (cf. \GAGACite{18}).
+"
+sources/english/components/03_sheaf_correspondence_nos09_12.tex	157	93	102	92	101	covering/cover	coverings	coverings	"is commutative. This may be seen, for example, by taking the coverings $\mathfrak{U}$ to be coverings by affine open sets (cf. \GAGACite{18}).
+"
+sources/english/components/04_proofs_theorems1_3_nos13_17.tex	26	581	589	580	588	covering/cover	covering	covering	"For $q=0$, both $\mathrm{H}^0(\mathrm{X},\mathcal{O})$ and $\mathrm{H}^0(\mathrm{X}^h,\mathcal{O}^h)$ consist only of the constants. For $q>0$, we know that $\mathrm{H}^q(\mathrm{X},\mathcal{O})=0$ (cf. \GAGACite{18}, no.~65, Proposition~8). On the other hand, by the Dolbeault theorem (cf. \GAGACite{8}), $\mathrm{H}^q(\mathrm{X}^h,\mathcal{O}^h)$ is isomorphic to the cohomology of type $(0,q)$ of the projective space $\mathrm{X}$, and hence is zero. This proves the lemma.\footnote{One may also calculate $\mathrm{H}^q(\mathrm{X},\mathcal{O})$ \emph{directly}, using the open covering of $\mathrm{X}$ defined in \GAGAInternalRef{gaga:no:16}{no.~16} and Laurent-series expansions (J. Frenkel, unpublished). This avoids any appeal to the theory of Kähler manifolds.}
+"
+sources/english/components/05_applications_nos18_20.tex	55	56	64	55	63	covering/cover	covering	covering	"$\mathrm{X}^\sigma$. It follows that, for every Z-open covering $\mathfrak{U}$ of $\mathrm{X}$,
+"
+sources/english/components/05_applications_nos18_20.tex	130	44	51	43	50	fibre-space/fibre space/fiber space/bundle	bundles	bundles	"\GAGASubsection{20. Algebraic and analytic bundles}{gaga:no:20}
+"
+sources/english/components/05_applications_nos18_20.tex	140	36	43	35	42	fibre-space/fibre space/fiber space/bundle	bundles	bundles	"the classes of principal algebraic bundles with base $\mathrm{X}$ and structure
+"
+sources/english/components/05_applications_nos18_20.tex	142	82	89	81	88	fibre-space/fibre space/fiber space/bundle	bundles	bundles	"elements of $\mathrm{H}^1(\mathrm{X},\mathcal{O}_\mathrm{X})$ are the classes of bundles
+"
+sources/english/components/05_applications_nos18_20.tex	148	1	8	0	7	fibre-space/fibre space/fiber space/bundle	bundles	bundles	"bundles with base $\mathrm{X}$ and group $\mathrm{G}$. Every algebraic bundle $\mathrm{E}$
+"
+sources/english/components/05_applications_nos18_20.tex	148	72	78	71	77	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"bundles with base $\mathrm{X}$ and group $\mathrm{G}$. Every algebraic bundle $\mathrm{E}$
+"
+sources/english/components/05_applications_nos18_20.tex	149	21	27	20	26	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"defines an analytic bundle $\mathrm{E}^h$, and therefore a map
+"
+sources/english/components/05_applications_nos18_20.tex	161	63	70	62	69	fibre-space/fibre space/fiber space/bundle	bundles	bundles	"Let $\mathrm{E}$ and $\mathrm{E}'$ be two principal algebraic bundles with base $\mathrm{X}$ and
+"
+sources/english/components/05_applications_nos18_20.tex	168	67	73	66	72	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"The space $\mathrm{E}\times \mathrm{E}'$ is a principal algebraic bundle with base
+"
+sources/english/components/05_applications_nos18_20.tex	170	94	99	93	98	fibre/fiber/stalk	fiber	fiber	"inverse image under the diagonal map $\mathrm{X}\to \mathrm{X}\times \mathrm{X}$; it is the `fiber
+"
+sources/english/components/05_applications_nos18_20.tex	177	25	31	24	30	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"Let $\mathrm{T}$ be the bundle associated with the principal bundle
+"
+sources/english/components/05_applications_nos18_20.tex	177	62	68	61	67	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"Let $\mathrm{T}$ be the bundle associated with the principal bundle
+"
+sources/english/components/05_applications_nos18_20.tex	178	42	47	41	46	fibre/fiber/stalk	fiber	fiber	"$(\mathrm{E},\mathrm{E}')$, with typical fiber the group $\mathrm{G}$ equipped with the preceding
+"
+sources/english/components/05_applications_nos18_20.tex	193	24	30	23	29	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"whether every analytic bundle is algebraic. This is plainly false if no
+"
+sources/english/components/05_applications_nos18_20.tex	209	20	26	19	25	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"To every principal bundle with structure group
+"
+sources/english/components/05_applications_nos18_20.tex	210	52	58	51	57	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"$\mathrm{GL}_n(\mathbf{C})$ is associated a vector bundle,
+"
+sources/english/components/05_applications_nos18_20.tex	211	16	21	15	20	fibre/fiber/stalk	fiber	fiber	"having typical fiber $\mathbf{C}^n$, which characterizes it. In view of the
+"
+sources/english/components/05_applications_nos18_20.tex	212	31	38	30	37	fibre-space/fibre space/fiber space/bundle	bundles	bundles	"correspondence between vector bundles and locally free
+"
+sources/english/components/05_applications_nos18_20.tex	240	66	72	65	71	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"Proposition~\hyperref[gaga:prop:18]{18} says that every analytic bundle
+"
+sources/english/components/05_applications_nos18_20.tex	256	28	34	27	33	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"into a principal algebraic bundle with base $\mathrm{G}/\mathrm{H}$ and structure group
+"
+sources/english/components/05_applications_nos18_20.tex	263	73	79	72	78	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"compact algebraic variety, and let $\mathrm{P}$ be a principal analytic bundle
+"
+sources/english/components/05_applications_nos18_20.tex	264	62	68	61	67	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"with base $\mathrm{X}$ and structure group $\mathrm{H}$. The bundle $\mathrm{P}$ is algebraic if and
+"
+sources/english/components/05_applications_nos18_20.tex	265	13	19	12	18	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"only if the bundle $\mathrm{P}\times_\mathrm{H}\mathrm{G}$, obtained from $\mathrm{P}$ by extending the
+"
+sources/english/components/05_applications_nos18_20.tex	269	59	65	58	64	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"algebraic. This means that there is a principal algebraic bundle $\mathrm{P}_0$
+"
+sources/english/components/05_applications_nos18_20.tex	271	73	79	72	78	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"$h:\mathrm{P}_0\to \mathrm{P}\times_\mathrm{H}\mathrm{G}$. Consider the bundle $\mathrm{E}$ (respectively $\mathrm{E}_0$)
+"
+sources/english/components/05_applications_nos18_20.tex	272	101	106	100	105	fibre/fiber/stalk	fiber	fiber	"associated with $\mathrm{P}\times_\mathrm{H}\mathrm{G}$ (respectively $\mathrm{P}_0$), with typical fiber $\mathrm{G}/\mathrm{H}$
+"
+sources/english/components/05_applications_nos18_20.tex	282	9	15	8	14	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"But the bundle $\mathrm{E}=\mathrm{P}\times_\mathrm{H}\mathrm{G}/\mathrm{H}$ has a canonical section $s$, because
+"
+sources/english/components/05_applications_nos18_20.tex	289	81	87	80	86	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"precisely $\mathrm{E}_0$. More exactly, $\mathrm{P}_0$ is a principal algebraic bundle with
+"
+sources/english/components/05_applications_nos18_20.tex	291	75	81	74	80	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"argument, using the hypothesis that $\mathrm{G}$ is a principal algebraic bundle
+"
+sources/english/components/05_applications_nos18_20.tex	294	39	45	38	44	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"$s_0:\mathrm{X}\to \mathrm{E}_0$. The bundle $\mathrm{P}_1$ is a principal algebraic bundle
+"
+sources/english/components/05_applications_nos18_20.tex	294	86	92	85	91	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"$s_0:\mathrm{X}\to \mathrm{E}_0$. The bundle $\mathrm{P}_1$ is a principal algebraic bundle
+"
+sources/english/components/05_applications_nos18_20.tex	301	1	7	0	6	fibre-space/fibre space/fiber space/bundle	bundle	bundle	"bundle with structure group $\mathrm{H}$, under the map $s:\mathrm{X}\to \mathrm{E}$. This last
+"
+sources/english/components/06_appendix_nos21_24_bibliography.tex	234	1	10	0	9	separated/Hausdorff	separated	separated	"separated).}
+"
+sources/english/components/06_appendix_nos21_24_bibliography.tex	250	37	46	36	45	separated/Hausdorff	separated	separated	"One then shows that $\mathrm{E}$ is separated. Apply
+"
+sources/english/components/06_appendix_nos21_24_bibliography.tex	440	77	82	76	81	fibre/fiber/stalk	fibre	fibre	"\item\GAGATarget{gaga:bib:10} A.~\textsc{Grothendieck}. A general theory of fibre spaces with
+"
+sources/english/components/06_appendix_nos21_24_bibliography.tex	440	77	89	76	88	fibre-space/fibre space/fiber space/bundle	fibre spaces	fibre spaces	"\item\GAGATarget{gaga:bib:10} A.~\textsc{Grothendieck}. A general theory of fibre spaces with
+"
+sources/english/components/06_appendix_nos21_24_bibliography.tex	472	49	54	48	53	fibre/fiber/stalk	fibre	Fibre	"\item\GAGATarget{gaga:bib:20} A.~\textsc{Weil}. Fibre-spaces in algebraic geometry (Notes by
+"
+sources/english/components/06_appendix_nos21_24_bibliography.tex	472	49	61	48	60	fibre-space/fibre space/fiber space/bundle	fibre-spaces	Fibre-spaces	"\item\GAGATarget{gaga:bib:20} A.~\textsc{Weil}. Fibre-spaces in algebraic geometry (Notes by
+"
